@@ -1,0 +1,32 @@
+platform,cause,notebooks
+codeberg,imported indirectly (...),101
+codeberg,inferred package failed to install (...),80
+codeberg,import error (...),51
+codeberg,"runtime-only module, not installable (...)",51
+codeberg,version incompatibility: name not found in the installed package (...),40
+codeberg,declared package failed to install (...),21
+codeberg,submodule missing in the installed version (...),18
+codeberg,package installed but module not importable (...),14
+codeberg,third-party import with no install attempt,3
+codeberg,local module of the resource not importable,2
+github,import error (...),105
+github,imported indirectly (...),59
+github,"runtime-only module, not installable (...)",59
+github,inferred package failed to install (...),56
+github,submodule missing in the installed version (...),40
+github,declared package failed to install (...),32
+github,version incompatibility: name not found in the installed package (...),25
+github,package installed but module not importable (...),7
+github,third-party import with no install attempt,3
+github,local module of the resource not importable,2
+github,Python 2 module,1
+zenodo,imported indirectly (...),299
+zenodo,inferred package failed to install (...),213
+zenodo,import error (...),82
+zenodo,local module of the resource not importable,45
+zenodo,version incompatibility: name not found in the installed package (...),45
+zenodo,"runtime-only module, not installable (...)",29
+zenodo,submodule missing in the installed version (...),19
+zenodo,declared package failed to install (...),13
+zenodo,package installed but module not importable (...),6
+zenodo,third-party import with no install attempt,4

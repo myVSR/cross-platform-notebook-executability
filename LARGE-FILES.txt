@@ -1,0 +1,7 @@
+# Files left out of this repository for their size (added in the DOI version):
+# SHA-256  bytes  path
+fefbf0a986442f05a7e9d7ba747ad0b630997025439ec706b6685b65d982c06b  105840640  data/sampling/codeberg/census.sqlite
+73666fd191c582015feacba359b48dd032bd95d64175c7de008ce198423772ea  334966784  data/sampling/zenodo/frame.sqlite
+b7b14d8d1ef4ef6490aca48b011d15648b1a4eab3396eaaf4fe5e4431349d963  696041472  results/study/merged.sqlite
+670a97fbab28e4a7e267d5191adef8fa0c62ccdc80ad2eaa1ba3eb0b30e692d4  756453376  results/study-r2/merged.sqlite
+de87f328bc9c99364e8cd267fa928a4cec21f0ef5c297ee602afdfdfe7083aa2  1049042944  results/study-r3/merged.sqlite

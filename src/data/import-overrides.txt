@@ -1,0 +1,41 @@
+# Import name (or dotted prefix) -> PyPI distribution, checked before pipreqs-mapping.txt.
+# The longest matching prefix wins. "!" marks imports that cannot be installed from PyPI;
+# the text after it is recorded as the reason.
+# Format: <import or dotted prefix>:<distribution>   or   <prefix>:!<reason>
+cv2:opencv-python
+skimage:scikit-image
+Bio:biopython
+osgeo:GDAL
+sklearn:scikit-learn
+mpl_toolkits:matplotlib
+mpl_toolkits.basemap:basemap
+mpl_toolkits.basemap_data:basemap-data
+google.colab:!Google Colab runtime only
+google.cloud.storage:google-cloud-storage
+google.cloud.bigquery:google-cloud-bigquery
+google.protobuf:protobuf
+google.genai:google-genai
+google.generativeai:google-generativeai
+google.auth:google-auth
+google.oauth2:google-auth
+googleapiclient:google-api-python-client
+odc.ui:odc-ui
+odc.geo:odc-geo
+odc.stac:odc-stac
+odc.algo:odc-algo
+dateutil:python-dateutil
+dotenv:python-dotenv
+docx:python-docx
+pptx:python-pptx
+fitz:PyMuPDF
+attr:attrs
+jwt:PyJWT
+serial:pyserial
+usb:pyusb
+zmq:pyzmq
+tensorflow_hub:tensorflow-hub
+tensorflow_datasets:tensorflow-datasets
+torchvision:torchvision
+pyodide:!Pyodide/JupyterLite runtime only
+js:!Pyodide/JupyterLite runtime only
+micropip:!Pyodide/JupyterLite runtime only

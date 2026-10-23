@@ -1,0 +1,195 @@
+{
+ "scored_at": "2026-10-23T20:35:27+00:00",
+ "weights_from": "results/study-r3/merged.sqlite",
+ "normalisation": {
+  "agreement": {
+   "annotators": [
+    "A1",
+    "A2"
+   ],
+   "items_both": 120,
+   "items_single": 0,
+   "items_labelled": {
+    "A1": 120,
+    "A2": 120
+   },
+   "raw": 0.9417,
+   "kappa": 0.8399,
+   "unresolved": 7
+  },
+  "false_match": {
+   "n": 75,
+   "wrong": 1,
+   "share": 0.013333333333333334,
+   "low": 0.0023575511129896726,
+   "high": 0.07173365628197906,
+   "cannot_judge": 0
+  },
+  "false_match_by_outcome": {
+   "identical normalised": {
+    "n": 32,
+    "wrong": 1,
+    "share": 0.03125,
+    "low": 0.00553786010270331,
+    "high": 0.15744263967668448,
+    "cannot_judge": 0
+   },
+   "image similar": {
+    "n": 29,
+    "wrong": 0,
+    "share": 0.0,
+    "low": 0.0,
+    "high": 0.11696980012918376,
+    "cannot_judge": 0
+   },
+   "identical tolerance": {
+    "n": 14,
+    "wrong": 0,
+    "share": 0.0,
+    "low": 0.0,
+    "high": 0.21531080540298042,
+    "cannot_judge": 0
+   }
+  },
+  "false_mismatch": {
+   "n": 38,
+   "wrong": 14,
+   "share": 0.3684210526315789,
+   "low": 0.23384219158688957,
+   "high": 0.5271604056607364,
+   "cannot_judge": 0
+  },
+  "comment_tags": {
+   "random": {
+    "different": 4
+   },
+   "float": {
+    "same": 1
+   }
+  },
+  "weighted_false_match": 0.013647684437264405
+ },
+ "failures": {
+  "agreement": {
+   "annotators": [
+    "A1",
+    "A2"
+   ],
+   "items_both": 100,
+   "items_single": 0,
+   "items_labelled": {
+    "A1": 100,
+    "A2": 100
+   },
+   "raw": 0.82,
+   "kappa": 0.7845,
+   "unresolved": 18
+  },
+  "judged": 82,
+  "cannot_judge": 0,
+  "accuracy": {
+   "n": 82,
+   "correct": 66,
+   "share": 0.8048780487804879,
+   "low": 0.7062981057659927,
+   "high": 0.8761710257190793
+  },
+  "accuracy_by_type": {
+   "n": 82,
+   "correct": 52,
+   "share": 0.6341463414634146,
+   "low": 0.526072667514144,
+   "high": 0.7302137503392876
+  },
+  "precision": {
+   "CODE_ERROR": {
+    "n": 9,
+    "correct": 9,
+    "share": 1.0,
+    "low": 0.700854948272956,
+    "high": 1.0
+   },
+   "DATA_ERROR": {
+    "n": 7,
+    "correct": 2,
+    "share": 0.2857142857142857,
+    "low": 0.08221892324928332,
+    "high": 0.6410655504689458
+   },
+   "DEPENDENCY_ERROR": {
+    "n": 16,
+    "correct": 16,
+    "share": 1.0,
+    "low": 0.8063923170025951,
+    "high": 1.0
+   },
+   "EXECUTION_ENVIRONMENT_ERROR": {
+    "n": 2,
+    "correct": 0,
+    "share": 0.0,
+    "low": 0.0,
+    "high": 0.6576197760453506
+   },
+   "EXECUTION_FAILURE": {
+    "n": 8,
+    "correct": 8,
+    "share": 1.0,
+    "low": 0.6755924316585924,
+    "high": 1.0
+   },
+   "EXTERNAL_SERVICE_ERROR": {
+    "n": 15,
+    "correct": 14,
+    "share": 0.9333333333333333,
+    "low": 0.7018346989112435,
+    "high": 0.9881331046384677
+   },
+   "FILE_ERROR": {
+    "n": 16,
+    "correct": 16,
+    "share": 1.0,
+    "low": 0.8063923170025951,
+    "high": 1.0
+   },
+   "NETWORK_ERROR": {
+    "n": 1,
+    "correct": 1,
+    "share": 1.0,
+    "low": 0.2065493117918027,
+    "high": 1.0
+   },
+   "OTHER_ERROR": {
+    "n": 8,
+    "correct": 0,
+    "share": 0.0,
+    "low": 0.0,
+    "high": 0.3244075683414076
+   }
+  },
+  "moved_context_right": {
+   "n": 15,
+   "correct": 14,
+   "share": 0.9333333333333333,
+   "low": 0.7018346989112435,
+   "high": 0.9881331046384677
+  },
+  "moved_type_right": {
+   "n": 15,
+   "correct": 0,
+   "share": 0.0,
+   "low": 0.0,
+   "high": 0.20388330359648707
+  },
+  "reference_labels": {
+   "data": 3,
+   "file": 17,
+   "dependency": 19,
+   "no-execution": 8,
+   "environment": 3,
+   "external": 19,
+   "code": 11,
+   "network": 2
+  },
+  "weighted_accuracy": 0.8495598445012388
+ }
+}

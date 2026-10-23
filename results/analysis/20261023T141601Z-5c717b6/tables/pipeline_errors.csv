@@ -1,0 +1,4 @@
+platform,url,outcome,run_status,error_message
+zenodo,https://zenodo.org/records/1491315,pipeline_error,KERNEL_START_FAIL,The notebook kernel could not be started: RuntimeError: Kernel died before replying to kernel_info
+codeberg,https://codeberg.org/edinho/grupy-dask,pipeline_error,KERNEL_START_FAIL,The notebook kernel could not be started: RuntimeError: Kernel died before replying to kernel_info
+zenodo,https://zenodo.org/records/19173545,pipeline_error,KERNEL_START_FAIL,The notebook kernel could not be started: RuntimeError: Kernel died before replying to kernel_info

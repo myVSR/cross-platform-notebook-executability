@@ -1,0 +1,104 @@
+platform,run_status,reason,resources
+codeberg,INVALID_REPOSITORY_URL,git ls-remote failed,3
+github,INVALID_REPOSITORY_URL,git ls-remote failed,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: data.tar.gz (archive, content not listed larger",2
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: bsdtar failed for Antalya Bay, Southern Turkey.rar: Antalya Bay, Southe",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: cannot read archive Demultiplexing_Doublet_Detecting_Docs-v#.#.#.zip: F,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: cannot read archive Fig.S#-data-Intensity and position-rawdata and rscr,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: cannot read archive Floor-Bite.zip: File is not a zip file,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: cannot read archive trialstreamer-update-pubmed-#-#-#.zip: File is not ,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: cannot read archive yield data.zip: File is not a zip file,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped:  Data of 'In-plane selective area InSb-Al nanow,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: #Dmodel_El laco_#_TC.zip (archive, content not ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: AlexandriaLib-v#.#.tar.gz (archive, content not",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: AnoVox_Normality_Mono_Town#.tar.gz (archive, co",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: BindingNetv#_Low_subset.tar.gz (archive, conten",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: C#.tar.gz (archive, content not listed larger t",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: CAM-UNLOADED.tar.gz (archive, content not liste",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: CHINA_FILES_ECMWF_OP_HRB_#-#.tgz (archive, cont",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: CTR_healthyLung.tar (archive, content not liste",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: Causal_study_Ricard.zip (archive with notebooks,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Divergence_GC_variation_data_#.tar.gz (archive,",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: E#SMv#.#-ArcticData.tar.gz (archive, content no",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: FDHMF_#G_LOOP.tar.gz (archive, content not list",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: FMT_Gyrase_NoCipro.zip (archive, content not li",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: FW#_#.tar.gz (archive, content not listed large",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: FunVIP_validation.tar.gz (archive, content not ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: GTDB_v#.tar.gz (archive, content not listed lar",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: HBC_labels.zip (archive, content not listed lar",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: HTC-NN_data.zip (archive, content not listed la",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: KastorKGV#_dump.nquad.tar.gz (archive, content ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Li-Bao_JCTC_#.tar.gz (archive, content not list",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: MUD-Sleep.zip (archive, content not listed larg",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Mason_et_al_UKESM#_MCB_data.tar (archive, conte",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: Model_files_EE-tides_Paleoceano#_final.tar.gz (,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: MscL_inputs_and_scripts.tar.gz (archive, conten",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: MunichInactiveWithoutH#KT_RE#.zip (archive with,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: NODES.tar (archive, content not listed larger t",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: NeutronCT_WMonoblockStudy.zip (archive, content",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: ORF#_database.tar.gz (archive, content not list",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: RCS_UKC#_data_code.tar (archive, content not li",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: RNA_DPPC_MD_data.tar.gz (archive, content not l",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: Rockermeth_paper_supplementary_dataset.tar.gz (,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: SeasHistImprovementEras.tar.gz (archive, conten",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Spliceosome_repository.tar.gz (archive, content",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: U#_#.zip (archive, content not listed larger th",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Unpublished_Report_part#.zip (archive, content ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: Vascular_Plants_ITS#_Denmark.tar.gz (archive, c",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: W#_bifdrop_sp_along_tunneling_pathways.tar.gz (,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: WEIGHT.tar (archive, content not listed larger ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: WLS#s_#.zip (archive, content not listed larger",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: abt-#.tar.gz (archive, content not listed large",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: agglomerative_matching_paper_zenodo.tar.gz (arc,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: anchor_dataset.tar.gz (archive, content not lis",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: arch.zip (archive, content not listed larger th",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: beyond-benchmarks-artifact.tar.gz (archive, con",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: box_mecr_uml.tar.gz (archive, content not liste",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: bts_results_CAD_IBD_SLE_RA.zip (archive, conten",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: charge_-#_#-#.tar.gz (archive, content not list",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: checkpoints.tar (archive, content not listed la",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: ci-#-#v_DeepConf_dataset.tar (archive, content ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: code_and_comments.tar.gz (archive, content not ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: copy_#_A#_#_AH#JK#DMXX.tar.gz (archive, content",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: data_collection_samples.zip (archive, content n",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: data_kleptomove_#_#_#.zip (archive, content not",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: democratizing_data_model_data.tar.gz (archive, ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: edna_v#.#.tar.gz (archive, content not listed l",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: eurofer#_paper_data_repository.zip (archive, co",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: footprint_sample_#.tar.gz (archive, content not",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: gas_simulation.tar.gz (archive, content not lis",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: genbank-#.#-fungi-k#_#.#_pretrained.zip (archiv,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: grib_files.tar.gz (archive, content not listed ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: hPPB-fold#-small-binidx-#-ms-#-ds-#.tar.gz (arc,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: hmml-windfarm.zip (archive, content not listed ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: images_brand.zip (archive, content not listed l",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: imzMLs.zip (archive without notebooks larger th,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: india-cl-replication-v#.zip (archive, content n",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: intrinsic-jva-artifact.tar.gz (archive, content",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: iot_#_datasets_full.tar.gz (archive, content no",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: issta#-artifact.zip (archive, content not liste",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: libRadtran-#.#.#.#.tar.gz (archive, content not",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: lipoplex_BMHB#_no-xtc.tar.gz (archive, content ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: lmcu#.tar.gz (archive, content not listed large",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: mcproj.tar.gz (archive, content not listed larg",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: merscope-data-caspase-SARS-Cov-#.tar.gz (archiv,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: michaengeser/pep_WP#_beh-fMRI-Code.zip (archive,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: midvein_segmentation.zip (archive, content not ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: mm#-#.#.#_transgenes.tar.gz (archive, content n",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: movi#_hprc#_thresh.tar.gz (archive, content not",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: msr_sstubs_llms.tar.gz (archive, content not li",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: neon_zenodo.tar.gz (archive, content not listed",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: network_diffusion_ED.tar.gz (archive, content n",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: ray_traces_imx_#s.tar.gz (archive, content not ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: rna_phase_separation_Martini_CG_sim_v#.tar.gz (,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: scatteringLUTs_tmatrix_bhmie_v#.#.tar.gz (archi,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: every file was skipped: sentence_pairs_for_pretrain_no_tokenization.tar,1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: simulations_#.zip (archive, content not listed ",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: single-PL.tar.gz (archive, content not listed l",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: subject#.zip (archive, content not listed large",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: taxonomic_binning_cami#.tar.gz (archive, conten",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: trajectory.zip (archive, content not listed lar",1
+zenodo,ZENODO_DOWNLOAD_FAILED,"Could not download or extract the Zenodo record: every file was skipped: uva_eskape_#-#-#.tar.gz (archive, content not l",1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: extraction failed for voxceleb#_test_#.tar: [Errno #] Permission denied,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: unsafe path in crsimtest#_out_ref_MP#.tar.gz: wrf_p#_wrfout_d#_#-#-#_#:,1
+zenodo,ZENODO_DOWNLOAD_FAILED,Could not download or extract the Zenodo record: zenodo_fetch.py exited with status #,1

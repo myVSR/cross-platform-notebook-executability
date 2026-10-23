@@ -1,0 +1,4 @@
+platform,run_status,resources
+codeberg,SUCCESS,455
+github,SUCCESS,495
+zenodo,SUCCESS,386

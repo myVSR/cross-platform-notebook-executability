@@ -1,0 +1,28 @@
+{
+  "reported_at": "2026-10-07T03:27:55+00:00",
+  "cutoff": "2026-07-01",
+  "max_id": "1285566301",
+  "seed": "20261005",
+  "draws": 68604,
+  "public_repository": 24708,
+  "public_share": 0.36015392688472975,
+  "d2_outcomes": {
+    "empty": 2993,
+    "fork": 7440,
+    "pass": 14275
+  },
+  "d2_pass": 14275,
+  "languages_read": 14275,
+  "screened_in_jupyter": 657,
+  "jupyter_share_of_d2_pass": 0.046024518388791597,
+  "screened_in_per_draw": 0.009576701066993178,
+  "treecheck": {
+    "sampled": 381,
+    "read": 380,
+    "with_ipynb": 0,
+    "false_negative_rate": 0.0
+  },
+  "requests_logged": 69297,
+  "draws_needed_for_500_screened_in": 52210,
+  "hours_at_5000_requests_per_hour": 10.4
+}

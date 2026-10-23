@@ -1,0 +1,16 @@
+platform,role,outcome,resources
+codeberg,primary,analysable,455
+codeberg,primary,ineligible,41
+codeberg,primary,not_obtainable,3
+codeberg,primary,pipeline_error,1
+github,primary,analysable,495
+github,primary,ineligible,4
+github,primary,not_obtainable,1
+zenodo,primary,analysable,249
+zenodo,primary,ineligible,190
+zenodo,primary,not_obtainable,60
+zenodo,primary,pipeline_error,1
+zenodo,reserve,analysable,137
+zenodo,reserve,ineligible,119
+zenodo,reserve,not_obtainable,43
+zenodo,reserve,pipeline_error,1

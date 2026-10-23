@@ -1,0 +1,9 @@
+platform,url,effect,evidence,decision
+zenodo,https://zenodo.org/records/18523297,first run interrupted (RUNNING); re-run reported NO_NOTEBOOKS,"node-local /tmp full on node081/082/084 (No space left on device), 2026-10-09/10; content could not be confirmed","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/13758209,ZENODO_DOWNLOAD_FAILED,"node-local /tmp full (No space left on device), 2026-10-09","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/14531709,ZENODO_DOWNLOAD_FAILED,"node-local /tmp full (No space left on device), 2026-10-09","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/3234218,ZENODO_DOWNLOAD_FAILED,"extraction failed for Thies3.zip: [Errno 28] No space left on device, 2026-10-09","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/6580182,ZENODO_DOWNLOAD_FAILED,"node-local /tmp full (No space left on device), 2026-10-09","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/7014096,ZENODO_DOWNLOAD_FAILED,"node-local /tmp full (No space left on device), 2026-10-10","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+github,https://github.com/tonggehuang/Self_Driving_Car_Group,GIT_CLONE_FAILED,"node-local /tmp full (No space left on device), 2026-10-09","2026-10-11 (the authors): report only, no re-run; not a resource outcome"
+zenodo,https://zenodo.org/records/17799453,contaminated run (3/23 clean; comparisons failed with No module named 'attrs'),"ran on a full node-local /tmp, 2026-10-10","2026-10-11 (the authors): report only, no re-run; flagged as contaminated"

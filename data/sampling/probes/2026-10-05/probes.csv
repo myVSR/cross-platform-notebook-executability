@@ -1,0 +1,32 @@
+platform,probe,query,value,note,probed_at
+codeberg,public repositories (X-Total-Count),/repos/search,445238,,2026-10-05T09:54:45+00:00
+codeberg,max items per page,/settings/api,50,,2026-10-05T09:54:46+00:00
+codeberg,languages example aiocoap/aiocoap: Jupyter bytes,/repos/aiocoap/aiocoap/languages,13780,,2026-10-05T09:54:48+00:00
+github,primary language Jupyter Notebook (search total),"language:""Jupyter Notebook""",11240360,"search returns at most 1,000 results per query; matches the primary language only",2026-10-05T09:54:51+00:00
+github,"same, created 2020-01-01..2020-01-07","language:""Jupyter Notebook"" created:2020-01-01..2020-01-07",9027,"search returns at most 1,000 results per query; matches the primary language only",2026-10-05T09:54:59+00:00
+github,"same, created before 2026-07-01","language:""Jupyter Notebook"" created:<2026-07-01",10567655,"search returns at most 1,000 results per query; matches the primary language only",2026-10-05T09:55:01+00:00
+zenodo,all records (latest versions),,7413534,,2026-10-05T09:55:04+00:00
+zenodo,Z1 latest versions,files.entries.key:*.ipynb,10571,,2026-10-05T09:55:06+00:00
+zenodo,"Z1 latest versions, created before cutoff",files.entries.key:*.ipynb AND created:[* TO 2026-07-01},8456,,2026-10-05T09:55:08+00:00
+zenodo,Z1 all versions,files.entries.key:*.ipynb,14321,,2026-10-05T09:55:09+00:00
+zenodo,"Z1 all versions, created before cutoff",files.entries.key:*.ipynb AND created:[* TO 2026-07-01},11762,,2026-10-05T09:55:11+00:00
+zenodo,Z2 latest versions,files.entries.key:*.zip AND NOT files.entries.key:*.ipynb,515528,,2026-10-05T09:55:14+00:00
+zenodo,"Z2 latest versions, created before cutoff",files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND created:[* TO 2026-07-01},398309,,2026-10-05T09:55:16+00:00
+zenodo,Z2 all versions,files.entries.key:*.zip AND NOT files.entries.key:*.ipynb,1123676,,2026-10-05T09:55:19+00:00
+zenodo,"Z2 all versions, created before cutoff",files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND created:[* TO 2026-07-01},931947,,2026-10-05T09:55:21+00:00
+zenodo,Z3 latest versions,files.entries.key:(*.tar OR *.tar.gz OR *.tgz) AND NOT files.entries.key:*.zip AND NOT files.entries.key:*.ipynb,37917,,2026-10-05T09:55:22+00:00
+zenodo,"Z3 latest versions, created before cutoff",files.entries.key:(*.tar OR *.tar.gz OR *.tgz) AND NOT files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND created:[* TO 2026-07-01},33567,,2026-10-05T09:55:25+00:00
+zenodo,Z3 all versions,files.entries.key:(*.tar OR *.tar.gz OR *.tgz) AND NOT files.entries.key:*.zip AND NOT files.entries.key:*.ipynb,61399,,2026-10-05T09:55:27+00:00
+zenodo,"Z3 all versions, created before cutoff",files.entries.key:(*.tar OR *.tar.gz OR *.tgz) AND NOT files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND created:[* TO 2026-07-01},54788,,2026-10-05T09:55:29+00:00
+zenodo,Z1 software,files.entries.key:*.ipynb AND resource_type.type:software,3697,,2026-10-05T09:55:30+00:00
+zenodo,software (all),resource_type.type:software,302466,,2026-10-05T09:55:32+00:00
+zenodo,software with ZIP,resource_type.type:software AND files.entries.key:*.zip,255144,,2026-10-05T09:55:34+00:00
+zenodo,software linked to github.com,resource_type.type:software AND metadata.related_identifiers.identifier:*github.com*,209563,,2026-10-05T09:55:38+00:00
+zenodo,Z2 software,files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND resource_type.type:software,254652,,2026-10-05T09:55:39+00:00
+zenodo,Z2 software linked to github.com,files.entries.key:*.zip AND NOT files.entries.key:*.ipynb AND resource_type.type:software AND metadata.related_identifiers.identifier:*github.com*,205705,,2026-10-05T09:55:41+00:00
+zenodo,container listing zip: record 1239,dataset_plosopenr.zip,HTTP 200,2 entries,2026-10-05T09:55:45+00:00
+zenodo,container listing zip: record 6955,VAARTIJDENBOEK_M.S._CORNELIS_PRINS_1E_HELFT_REGELGEVING.zip,HTTP 200,104 entries,2026-10-05T09:55:47+00:00
+zenodo,container listing zip: record 6979,Dossier_2_persoonsgegevens_uit_diverse_stukken.zip,HTTP 200,13 entries,2026-10-05T09:55:49+00:00
+zenodo,container listing tar: record 11041,AnatomyOfMatplotlib-2.0.tar.gz,HTTP 500,,2026-10-05T09:55:53+00:00
+zenodo,container listing tar: record 12257,euroscipy2014-iga-examples-published.tar.gz,HTTP 500,,2026-10-05T09:55:55+00:00
+zenodo,container listing tar: record 12352,Soelter_et_al_Neuroimage2014.tar.gz,HTTP 500,,2026-10-05T09:55:57+00:00

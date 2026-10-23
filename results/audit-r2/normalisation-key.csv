@@ -1,0 +1,121 @@
+item,comparison_id,run_id,platform,notebook,cell_index,outcome,rules,expected
+N001,17102,56,codeberg,html/trainings/log/detail/2022-11-07/notebook.ipynb,154,identical normalised,"[""memory address""]",same
+N002,95296,1099,zenodo,Bvalue vs Heat flow.ipynb,7,image similar,"[""image compared visually""]",same
+N003,49608,518,codeberg,numpy/fft.ipynb,2,identical normalised,"[""memory address""]",same
+N004,53573,576,github,Machine Learning - Notebooks em Portugues/Regressão Logística/Estudo Regressão Logística.ipynb,18,different,[],different
+N005,115741,1445,codeberg,NumPy.ipynb,44,different,[],different
+N006,32748,266,codeberg,notebooks/3215_torch_stud.ipynb,4,image similar,"[""image compared visually""]",same
+N007,44560,462,zenodo,charlesll-gpvisc-4ccaed9/code_paper_EPSL/2_data_preparation_splitting.ipynb,3,image similar,"[""image compared visually""]",same
+N008,92264,1026,codeberg,ch16/bonus-distilbert-lightning-trainer/distilbert_finetuning-full.ipynb,33,identical normalised,"[""compared common output formats only"", ""progress bar""]",same
+N009,66656,752,github,F43/protocoll.ipynb,26,identical tolerance,"[""numeric tolerance""]",same
+N010,26400,147,codeberg,notebooks/07-Estimation_Likelihood.ipynb,47,identical normalised,[],same
+N011,118694,1529,codeberg,NW-UCLA/process.ipynb,3,different,"[""home path"", ""progress bar"", ""temporary path""]",different
+N012,4968,56,codeberg,html/_downloads/198b9719fda3b0298e1a884afc4eb309/notebook.ipynb,224,different,"[""home path""]",different
+N013,113130,1381,codeberg,notebooks/bacnet_bootstap_inference_generator.ipynb,19,different,[],different
+N014,123550,1616,github,all_data_pickle_gen.ipynb,8,different,[],different
+N015,84984,930,codeberg,3.MathStatist_for_DS/Buoi5_PCA_PrincipleComponentsAnalysis/Ex1_PCA_manually.ipynb,1,identical normalised,[],same
+N016,63203,711,github,DE_Challenge_2_SQL_Data_Modeling_1.ipynb,26,different,"[""compared common output formats only"", ""generated id"", ""timestamp""]",different
+N017,95551,1107,codeberg,DL/Lab/lab-06/main.ipynb,8,image similar,"[""image compared visually""]",same
+N018,116738,1474,zenodo,sergioaafreitas-CAM-0fbfffa/src/9.0 - iris_dataset.ipynb,0,image similar,"[""image compared visually""]",same
+N019,13559,56,codeberg,html/trainings/log/detail/2021-05-25/Notebook.ipynb,180,identical normalised,"[""memory address""]",same
+N020,36878,355,github,패스트캠퍼스/Python/2일차/02_basic_syntax.ipynb,18,identical normalised,[],same
+N021,64186,721,zenodo,PHASE2_REDO_v1_20260131_135920_REVIEWER_PACK_v1/pass2/notebook_pass2_EXECUTED.ipynb,83,identical normalised,[],same
+N022,106220,1291,codeberg,prophet_forecast.ipynb,3,identical normalised,[],same
+N023,66802,752,github,F85/FP85-Korf-Ahrens.ipynb,75,identical tolerance,"[""numeric tolerance""]",same
+N024,85015,930,codeberg,3.MathStatist_for_DS/Buoi6_Calculus/Ex1_GD_cach1.ipynb,8,identical tolerance,"[""numeric tolerance""]",same
+N025,48200,491,codeberg,ann/Navigation ANN keras.ipynb,6,different,[],different
+N026,110289,1339,codeberg,13_loading_and_preprocessing_data.ipynb,175,different,[],different
+N027,115022,1428,zenodo,SensitivityAnalysis_GlassFibreBlade.ipynb,2,image similar,"[""image compared visually""]",same
+N028,95631,1107,codeberg,DV/class/003/unit-3-seaborn.ipynb,37,image similar,"[""image compared visually""]",same
+N029,89694,971,zenodo,ynyang94-Optimization_for_ML-05bae36/proximal_gradient.ipynb,17,different,[],different
+N030,76405,875,github,1_foundations/community_contributions/1_lab1_Hy.ipynb,5,different,[],different
+N031,100416,1203,github,escalares_vectores_matrice_Transpo.ipynb,139,identical normalised,[],same
+N032,343,7,github,research_and_analyst/notebook/test.ipynb,31,identical normalised,"[""memory address""]",same
+N033,107638,1303,codeberg,research/cloud_estimation/cloud_estimation.ipynb,14,image similar,"[""image compared visually""]",same
+N034,3695,52,codeberg,NLP_2026_A4/A4_MLP.ipynb,18,identical normalised,[],same
+N035,81351,907,codeberg,acoustics_ubuntu/py/InfCyl_cavity_modes.ipynb,4,identical tolerance,"[""numeric tolerance""]",same
+N036,62135,688,zenodo,NES - Urdu Fake News Classification.ipynb,7,different,[],different
+N037,35123,314,zenodo,NCOMMS-25-68171/code/Ablation experiment-both(CuP+CAF).ipynb,16,different,[],different
+N038,84446,930,codeberg,2.Python_Visualize_for_DS/Buoi8_seaborn_pyplot/BTVN4_subplot_line_WomenInScience/BTVN4.ipynb,7,image similar,"[""image compared visually""]",same
+N039,63630,716,codeberg,notebooks/HATVP_v11_refactor.ipynb,31,different,[],different
+N040,63700,716,codeberg,notebooks/HATVP_v9_condense_stock_dataset.ipynb,34,image similar,"[""image compared visually""]",same
+N041,58843,627,github,Syyrilä_Elias_Assignment2_Code.ipynb,1,different,[],different
+N042,25950,147,codeberg,exam_sol/ExamJanuary_2022_problem.ipynb,24,identical normalised,[],same
+N043,114203,1426,zenodo,Asterics2020-Obelics-School2017-8da3f92/astropy/astropy_hands_on.ipynb,34,identical tolerance,"[""numeric tolerance""]",same
+N044,67568,764,codeberg,Simulations/RelativisticBeamTracing.ipynb,21,identical tolerance,"[""numeric tolerance""]",same
+N045,68305,770,codeberg,lab/lab05/lab05.ipynb,79,identical tolerance,"[""numeric tolerance""]",same
+N046,108599,1328,codeberg,lab2/dnn-mnist-tutorial.ipynb,27,image similar,"[""image compared visually""]",same
+N047,109288,1339,codeberg,04_training_linear_models.ipynb,76,different,[],different
+N048,114868,1426,zenodo,Asterics2020-Obelics-School2017-8da3f92/pandas/2. Reading and Visualising Data.ipynb,32,different,"[""memory address""]",different
+N049,62986,702,codeberg,minecraft-fortnite-classifier.ipynb,1,different,"[""home path""]",different
+N050,4004,56,codeberg,html/_downloads/06a3c6865bcc0ed96ac607883d6bbff9/Notebook.ipynb,137,identical normalised,"[""memory address""]",same
+N051,69592,770,codeberg,lec/lec25/lec25.ipynb,9,image similar,"[""image compared visually""]",same
+N052,83189,917,codeberg,Spam Detector/SpamClassifier.ipynb,22,identical normalised,"[""compared common output formats only""]",same
+N053,74446,854,github,mae/confidence interval analysis.ipynb,1009,different,[],different
+N054,20486,56,codeberg,html/trainings/log/detail/2023-12-18--Python-Basics/notebook.ipynb,530,identical normalised,"[""memory address""]",same
+N055,48168,488,codeberg,sklearn-tree-penguins/decision-tree-example-penguins.ipynb,63,identical tolerance,"[""numeric tolerance""]",same
+N056,110526,1339,codeberg,math_differential_calculus.ipynb,41,different,"[""generated id"", ""memory address""]",different
+N057,43866,450,github,Projeto2/Projeto_Inicial_IA_aplicada_a_Data_Science.ipynb,125,image similar,"[""image compared visually""]",same
+N058,113459,1383,github,pandas_tutotial.ipynb,15,identical normalised,"[""compared common output formats only""]",same
+N059,33450,279,github,210715 초음파광물 예측.ipynb,0,identical normalised,[],same
+N060,66785,752,github,F85/FP85-Korf-Ahrens.ipynb,46,identical tolerance,"[""numeric tolerance""]",same
+N061,84839,930,codeberg,2.Python_Visualize_for_DS/xBuoi12_FacetGrid_SuaBT(seaborn)/12.2.BT1 tips_Hue Palette_Pairplot.ipynb,10,image similar,"[""image compared visually""]",same
+N062,115351,1437,github,List_Exercises.ipynb,36,different,[],different
+N063,51213,548,github,Group01_Nanadni_Kajal_Assignment-4/Q5/gan_5.ipynb,15,image similar,"[""image compared visually""]",same
+N064,26348,147,codeberg,notebooks/06-Fundamentals_of_estimation.ipynb,6,different,"[""generated id""]",different
+N065,54389,576,github,Project - Bigmart Sales Prediction/Bigmart_Sales_Prediction.ipynb,13,different,[],different
+N066,63702,716,codeberg,notebooks/HATVP_v9_condense_stock_dataset.ipynb,36,image similar,"[""image compared visually""]",same
+N067,81751,909,github,catagory_prediction.ipynb,54,identical normalised,[],same
+N068,85980,930,codeberg,5.Preprocessing_ROC_AUC_SingleLinearReg_MultiLinearReg_Polynomial_LogReg_3Dplot/Buoi4_Standardizing_Scaling_removeOuliers/Ex4_KMeansClusters_customers.ipynb,19,image similar,"[""image compared visually""]",same
+N069,123365,1609,zenodo,Rc_plots.ipynb,6,identical tolerance,"[""numeric tolerance""]",same
+N070,111795,1355,github,HypothesisTesting_Lab (1).ipynb,48,identical tolerance,"[""numeric tolerance""]",same
+N071,95713,1107,codeberg,DV/lab/lab-03/main.ipynb,7,image similar,"[""image compared visually""]",same
+N072,66711,752,github,F43/protocollParisVersion.ipynb,61,image similar,"[""image compared visually""]",same
+N073,29383,190,github,pt01.ipynb,16,identical tolerance,"[""numeric tolerance""]",same
+N074,110687,1339,codeberg,tools_matplotlib.ipynb,42,different,[],different
+N075,89901,981,github,Untitled (1).ipynb,12,different,[],different
+N076,51010,544,codeberg,WEEK 12/npads_lab4.2.ipynb,8,image similar,"[""image compared visually"", ""memory address""]",same
+N077,115734,1445,codeberg,NumPy.ipynb,36,identical normalised,[],same
+N078,110243,1339,codeberg,13_loading_and_preprocessing_data.ipynb,119,identical normalised,"[""memory address""]",same
+N079,27230,159,github,pattern-matching/notebooks/main.ipynb,8,different,[],different
+N080,68756,770,codeberg,lec/lec04/lec04.ipynb,20,different,[],different
+N081,73812,854,github,gini_lorenz_subgroup/gini_subgroups.ipynb,87,different,[],different
+N082,61412,678,github,Clase8/Examen/Examen_Maximiliano_Torti.ipynb,16,different,[],different
+N083,26032,147,codeberg,lessons/lesson-3-2025.ipynb,8,different,[],different
+N084,54309,576,github,Machine Learning - Notebooks in English/20-Natural Language Processing/How it works - Natural Language Processing with Python.ipynb,81,identical tolerance,"[""numeric tolerance""]",same
+N085,125072,1646,github,heart_disease_classification.ipynb,48,different,[],different
+N086,6171,56,codeberg,html/_downloads/536e7ad327585f17aa5a05ccaa27aeea/Notebook.ipynb,71,identical normalised,"[""memory address""]",same
+N087,113493,1386,codeberg,index.ipynb,8,identical normalised,[],same
+N088,88937,949,github,env/Lib/site-packages/nbconvert/tests/files/Widget_List.ipynb,32,identical normalised,"[""compared common output formats only""]",same
+N089,97585,1154,zenodo,faers/benchmarking_TxGNN_on_NTDs_4th_Biotech_Research.ipynb,133,identical normalised,[],same
+N090,82333,910,zenodo,scripts/Tcells/Figures/Figure5.ipynb,85,different,"[""home path"", ""temporary path""]",different
+N091,88950,949,github,env/Lib/site-packages/nbconvert/tests/files/Widget_List.ipynb,62,identical normalised,"[""compared common output formats only""]",same
+N092,66783,752,github,F85/FP85-Korf-Ahrens.ipynb,44,image similar,"[""image compared visually""]",same
+N093,80140,884,codeberg,pytorch_complete_guide.ipynb,2,identical normalised,"[""memory address""]",same
+N094,83044,914,codeberg,Homework_2/Homework_2.ipynb,17,image similar,"[""image compared visually""]",same
+N095,21758,58,zenodo,_sources/other-digitised-resources/periodicals/accessing-data.ipynb,8,different,[],different
+N096,84428,930,codeberg,2.Python_Visualize_for_DS/Buoi8_seaborn_pyplot/BTVN2_Scatter_Worlds_dataanalysis/btvn2.ipynb,19,image similar,"[""image compared visually""]",same
+N097,60149,660,codeberg,kursus/module_6_exercises.ipynb,20,image similar,"[""image compared visually"", ""memory address""]",same
+N098,47414,488,codeberg,amazon-personalize-samples/next_steps/core_use_cases/user_personalization/user-personalization-with-contextual-recommendations.ipynb,95,different,[],different
+N099,8026,56,codeberg,html/_downloads/821bea6932dbee0783e5009da0c44173/notebook.ipynb,33,identical normalised,"[""memory address""]",same
+N100,26028,147,codeberg,lessons/lesson-3-2025.ipynb,4,image similar,"[""image compared visually"", ""memory address""]",same
+N101,47367,488,codeberg,amazon-personalize-samples/next_steps/core_use_cases/user_personalization/user-personalization-with-contextual-recommendations.ipynb,4,different,"[""timestamp""]",different
+N102,73104,844,github,notebooks/basic_template.ipynb,8,identical normalised,[],same
+N103,51038,544,codeberg,WEEK 14/EC123456 - NPA Data Science.ipynb,25,image similar,"[""image compared visually""]",same
+N104,73825,854,github,gini_lorenz_variables/gini_lorenz_variable.ipynb,1,identical normalised,[],same
+N105,86568,930,codeberg,5.Preprocessing_ROC_AUC_SingleLinearReg_MultiLinearReg_Polynomial_LogReg_3Dplot/Buoi8_Linear_Polynomial_reg_CrossValidate_Pipeline/demo_Chap8/demo_Polynominal_Regression.ipynb,17,identical tolerance,"[""numeric tolerance""]",same
+N106,104716,1255,codeberg,notebooks-tempest/Create Graphs of Vector Images from Tempest.ipynb,52,different,[],different
+N107,88000,930,codeberg,6.Machine_Learning/Chap_20_DBSCAN_HDBSCAN_Clustering/Ex1_DBSCAN_xclara.ipynb,12,image similar,"[""image compared visually""]",same
+N108,53890,576,github,Machine Learning - Notebooks in English/11-Linear-Regression/Practicing Skills - Linear Regression - Project e-Commerce.ipynb,48,identical tolerance,"[""numeric tolerance""]",same
+N109,115342,1437,github,List_Exercises.ipynb,27,different,[],different
+N110,92485,1026,codeberg,ch18/ch18_part2.ipynb,26,image similar,"[""image compared visually""]",same
+N111,44608,462,zenodo,charlesll-gpvisc-4ccaed9/code_paper_EPSL/4ter_xgboost_hyperparameter_opt.ipynb,8,identical normalised,[],same
+N112,60913,670,codeberg,hw7/GRAPHS_the_homework.ipynb,12,image similar,"[""image compared visually""]",same
+N113,73091,844,github,notebooks/basic-EDA.ipynb,44,identical normalised,"[""compared common output formats only""]",same
+N114,109426,1339,codeberg,07_ensemble_learning_and_random_forests.ipynb,130,identical normalised,"[""compared common output formats only"", ""generated id""]",same
+N115,109383,1339,codeberg,07_ensemble_learning_and_random_forests.ipynb,60,identical normalised,"[""compared common output formats only"", ""generated id""]",same
+N116,29244,189,zenodo,uasal-aefc-vortex-86d7890/simulations/test_models_96.ipynb,5,image similar,"[""image compared visually""]",same
+N117,110876,1339,codeberg,tools_numpy.ipynb,265,different,[],different
+N118,110657,1339,codeberg,math_linear_algebra.ipynb,258,different,[],different
+N119,99572,1187,zenodo,AtrCheema-SeqMetrics-8b8316c/tests/reference_for_seqmetric_tests.ipynb,169,different,[],different
+N120,34602,300,github,Sentiment_Analysis_on__Elon_musk_Tweets_Text_MIning.ipynb,2,identical normalised,[],same

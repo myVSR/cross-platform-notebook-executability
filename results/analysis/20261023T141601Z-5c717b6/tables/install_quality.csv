@@ -1,0 +1,4 @@
+platform,runs,runs_with_failed_installs,runs_infrastructure,runs_network,runs_index_no_upload_time,packages_failed,packages_network,packages_index_no_upload_time
+codeberg,455,87,0,0,0,357,0,0
+github,495,69,0,0,0,518,0,0
+zenodo,386,103,0,0,0,302,0,0

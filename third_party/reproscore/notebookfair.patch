@@ -1,0 +1,284 @@
+diff --git a/src/utils/notebook_paths.py b/src/utils/notebook_paths.py
+index ee10d70..08ba5c8 100644
+--- a/src/utils/notebook_paths.py
++++ b/src/utils/notebook_paths.py
+@@ -54,12 +54,18 @@ def _has_embedded_python_lib(parts: tuple) -> bool:
+     return False
+ 
+ 
+-def is_excluded_notebook(path: Path) -> bool:
++def is_excluded_notebook(path: Path, repo: Path | None = None) -> bool:
+     """
+     Return True if a notebook path should be excluded from analysis.
+-    Checks all components of the path.
++    Checks all components of the path inside the repository (notebookfair patch 1: with `repo`,
++    folders above the repository, e.g. a clone under .../build/ or ~/.cache/, no longer count).
+     """
+-    parts = path.parts
++    if repo is not None:
++        try:
++            path = Path(path).relative_to(repo)
++        except ValueError:
++            pass
++    parts = Path(path).parts
+     for part in parts:
+         if part in _EXCLUDED_DIRS:
+             return True
+@@ -74,5 +80,5 @@ def find_notebooks(repo: Path) -> list[Path]:
+     """
+     return sorted(
+         p for p in repo.rglob("*.ipynb")
+-        if not is_excluded_notebook(p)
++        if not is_excluded_notebook(p, repo)
+     )
+diff --git a/src/scoring/rrs.py b/src/scoring/rrs.py
+index 67b120e..7ba8ecd 100644
+--- a/src/scoring/rrs.py
++++ b/src/scoring/rrs.py
+@@ -277,7 +277,7 @@ class _SubMetricDetectors:
+             "**/Singularity", "**/*.def",
+         ]
+         for pat in glob_patterns:
+-            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p)]
++            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p, repo)]
+             if not hits:
+                 continue
+             docker_path = hits[0]
+@@ -451,7 +451,7 @@ class _SubMetricDetectors:
+ 
+         # Pinned base image in Dockerfile implies runtime version
+         for pat in ["**/Dockerfile"]:
+-            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p)]
++            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p, repo)]
+             for df in hits[:1]:
+                 content = df.read_text(errors="replace")
+                 if re.search(
+@@ -597,8 +597,8 @@ class _SubMetricDetectors:
+                       '.nc', '.zarr', '.npy', '.rds', '.feather', '.arrow'}
+         for ext in ['.csv', '.tsv', '.json', '.parquet']:
+             hits = [p for p in repo.glob(f"**/*{ext}")
+-                    if not is_excluded_notebook(p)
+-                    and not any(part.startswith('.') for part in p.parts)][:1]
++                    if not is_excluded_notebook(p, repo)
++                    and not any(part.startswith('.') for part in p.relative_to(repo).parts)][:1]
+             if hits:
+                 return SubMetricEvidence(
+                     metric_id="data_pointer", category="A", raw_score=25,
+@@ -627,7 +627,7 @@ class _SubMetricDetectors:
+                 )
+ 
+         for pat in ["**/*.nf", "**/*.cwl", "**/*.wdl", "**/Snakefile"]:
+-            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p)]
++            hits = [p for p in repo.glob(pat) if not is_excluded_notebook(p, repo)]
+             if hits:
+                 return SubMetricEvidence(
+                     metric_id="workflow_orchestration", category="A", raw_score=100,
+@@ -636,7 +636,7 @@ class _SubMetricDetectors:
+                 )
+ 
+         # DVC configuration
+-        dvc_files = [p for p in repo.glob("**/*.dvc") if not is_excluded_notebook(p)]
++        dvc_files = [p for p in repo.glob("**/*.dvc") if not is_excluded_notebook(p, repo)]
+         if dvc_files or (repo / ".dvc").is_dir():
+             fp = ".dvc" if (repo / ".dvc").is_dir() else str(dvc_files[0].relative_to(repo))
+             return SubMetricEvidence(
+@@ -673,7 +673,7 @@ class _SubMetricDetectors:
+     def data_acquisition_script(repo: Path) -> SubMetricEvidence:
+         """A4: Data acquisition script — automated data download detection."""
+         # DVC tracking files (strongest signal)
+-        dvc_files = [p for p in repo.glob("**/*.dvc") if not is_excluded_notebook(p)]
++        dvc_files = [p for p in repo.glob("**/*.dvc") if not is_excluded_notebook(p, repo)]
+         if dvc_files:
+             return SubMetricEvidence(
+                 metric_id="data_acquisition_script", category="A", raw_score=100,
+@@ -698,13 +698,13 @@ class _SubMetricDetectors:
+ 
+         check: List[Path] = []
+         for pat in ["**/*.sh", "**/Makefile", "**/makefile"]:
+-            check.extend(p for p in repo.glob(pat) if not is_excluded_notebook(p))
++            check.extend(p for p in repo.glob(pat) if not is_excluded_notebook(p, repo))
+         check.extend(
+             f for f in sorted(repo.glob("**/*.py"))[:30]
+-            if not is_excluded_notebook(f)
++            if not is_excluded_notebook(f, repo)
+         )
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         for f in check:
+             content = f.read_text(errors="replace")
+@@ -872,7 +872,7 @@ class _SubMetricDetectors:
+     def docstring_coverage(repo: Path) -> SubMetricEvidence:
+         """D4: Inline docstring coverage on public functions/classes (no Sphinx/MkDocs)."""
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+         if not py_files:
+             return SubMetricEvidence(
+                 metric_id="docstring_coverage", category="D", raw_score=50,
+@@ -906,11 +906,11 @@ class _SubMetricDetectors:
+     def inline_explanation_density(repo: Path) -> SubMetricEvidence:
+         """D5: Inline explanation density — unified metric (md/code ratio + comment density)."""
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+         r_files = [f for f in sorted(repo.glob("**/*.R"))
+-                   if not is_excluded_notebook(f)][:10]
++                   if not is_excluded_notebook(f, repo)][:10]
+ 
+         has_notebooks = bool(nb_files)
+         has_scripts = bool(py_files or r_files)
+@@ -952,9 +952,17 @@ class _SubMetricDetectors:
+         elif nb_score is not None:
+             score = round(nb_score, 1)
+             reason = f"Notebook narrative density: {score:.0f}/100"
+-        else:
+-            score = round(script_score, 1)  # type: ignore[arg-type]
++        elif script_score is not None:
++            score = round(script_score, 1)
+             reason = f"Script comment density: {score:.0f}/100"
++        else:
++            # notebookfair patch 2: notebooks without code cells and no script lines used to raise
++            # TypeError (round(None)); scored like the no-code case above.
++            return SubMetricEvidence(
++                metric_id="inline_explanation_density", category="D", raw_score=50,
++                file_path=None,
++                deduction_reason="No code cells in the notebooks and no script lines found",
++            )
+ 
+         return SubMetricEvidence(
+             metric_id="inline_explanation_density", category="D", raw_score=score,
+@@ -1067,11 +1075,11 @@ class _SubMetricDetectors:
+             r')'
+         )
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:30]
++                    if not is_excluded_notebook(f, repo)][:30]
+         r_files = [f for f in sorted(repo.glob("**/*.R"))
+-                   if not is_excluded_notebook(f)][:15]
++                   if not is_excluded_notebook(f, repo)][:15]
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         all_source = py_files + r_files
+         total_files = len(all_source) + len(nb_files)
+@@ -1156,9 +1164,9 @@ class _SubMetricDetectors:
+ 
+         # Collect imports from .py and notebook code cells
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:30]
++                    if not is_excluded_notebook(f, repo)][:30]
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         all_imports: set = set()
+         for pf in py_files:
+@@ -1226,11 +1234,11 @@ class _SubMetricDetectors:
+             return False
+ 
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:30]
++                    if not is_excluded_notebook(f, repo)][:30]
+         r_files = [f for f in sorted(repo.glob("**/*.R"))
+-                   if not is_excluded_notebook(f)][:15]
++                   if not is_excluded_notebook(f, repo)][:15]
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         all_source = py_files + r_files
+         total_files = len(all_source) + len(nb_files)
+@@ -1278,9 +1286,9 @@ class _SubMetricDetectors:
+             re.M
+         )
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:30]
++                    if not is_excluded_notebook(f, repo)][:30]
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         total_files = len(py_files) + len(nb_files)
+         if total_files == 0:
+@@ -1337,10 +1345,10 @@ class _SubMetricDetectors:
+         )
+         py_r_files = [
+             f for f in sorted(repo.glob("**/*.py")) + sorted(repo.glob("**/*.R"))
+-            if not is_excluded_notebook(f)
++            if not is_excluded_notebook(f, repo)
+         ][:30]
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+ 
+         f_rand: List[str] = []
+         f_seed: List[str] = []
+@@ -1383,7 +1391,7 @@ class _SubMetricDetectors:
+     def notebook_exec_order(repo: Path) -> SubMetricEvidence:
+         """S2: Notebook execution order — cells executed in monotonic sequence."""
+         nb_files = [f for f in sorted(repo.glob("**/*.ipynb"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+         if not nb_files:
+             return SubMetricEvidence(
+                 metric_id="notebook_exec_order", category="S", raw_score=100,
+@@ -1446,7 +1454,7 @@ class _SubMetricDetectors:
+         test_files = []
+         for pat in test_patterns:
+             test_files.extend(repo.glob(f"**/{pat}"))
+-        test_files = [f for f in test_files if not is_excluded_notebook(f)]
++        test_files = [f for f in test_files if not is_excluded_notebook(f, repo)]
+         count = len(set(test_files))
+         score = min(count / 2, 1.0) * 100
+         return SubMetricEvidence(
+@@ -1492,8 +1500,8 @@ class _SubMetricDetectors:
+         for ext in ['.png', '.pdf', '.svg']:
+             hits = [
+                 p for p in repo.glob(f"**/*{ext}")
+-                if not is_excluded_notebook(p)
+-                and not any(part.startswith('.') for part in p.parts)
++                if not is_excluded_notebook(p, repo)
++                and not any(part.startswith('.') for part in p.relative_to(repo).parts)
+             ][:1]
+             if hits:
+                 return SubMetricEvidence(
+@@ -1562,7 +1570,7 @@ class _SubMetricDetectors:
+         argparse_re = re.compile(r'\bargparse\b|\bArgumentParser\b|\bclick\b|\btyper\b')
+         hydra_re = re.compile(r'\bhydra\b|\bomegaconf\b', re.I)
+         py_files = [f for f in sorted(repo.glob("**/*.py"))
+-                    if not is_excluded_notebook(f)][:20]
++                    if not is_excluded_notebook(f, repo)][:20]
+         for pf in py_files:
+             content = pf.read_text(errors="replace")
+             if hydra_re.search(content):
+diff --git a/src/scoring/ros.py b/src/scoring/ros.py
+index ac69660..0cf7311 100644
+--- a/src/scoring/ros.py
++++ b/src/scoring/ros.py
+@@ -34,6 +34,9 @@ class ExecutionEvidence:
+     notebook_exec_rate: Optional[float] = None   # N: fraction of .ipynb that ran to completion (0-1)
+     import_success_rate: Optional[float] = None  # E: fraction free from ImportError/ModuleNotFoundError (0-1)
+     test_pass_rate: Optional[float] = None       # T: pytest/testthat pass rate (0-1)
++    # notebookfair patch 3: R, agreement of re-executed outputs with the outputs stored in the
++    # notebooks (0-1); counted only if the rubric gives "R" a weight, so the default rubric is unchanged
++    output_reproduction: Optional[float] = None
+ 
+ 
+ @dataclass
+@@ -86,6 +89,10 @@ class ROSScorer:
+             candidates["T"] = (float(ev.test_pass_rate) * 100.0,
+                                weights["T"]["weight"])
+ 
++        if ev.output_reproduction is not None and "R" in weights:
++            candidates["R"] = (float(ev.output_reproduction) * 100.0,
++                               weights["R"]["weight"])
++
+         if not candidates:
+             return ROSResult(
+                 ros=None,

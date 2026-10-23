@@ -1,0 +1,7 @@
+difference,alpha,resources_per_platform
+0.05,alpha .05,804
+0.08,alpha .05,314
+0.1,alpha .05,201
+0.05,"alpha .05/3 (Bonferroni, 3 pairwise)",1072
+0.08,"alpha .05/3 (Bonferroni, 3 pairwise)",419
+0.1,"alpha .05/3 (Bonferroni, 3 pairwise)",268

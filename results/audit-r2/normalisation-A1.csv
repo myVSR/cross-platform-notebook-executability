@@ -1,0 +1,121 @@
+audit,item,annotator,label,comment
+normalisation,N001,A1,same,Only the memory addresses differ; both outputs represent a range_iterator object.
+normalisation,N002,A1,same,
+normalisation,N003,A1,same,
+normalisation,N004,A1,different,The second heatmap shows many missing values in the Age column
+normalisation,N005,A1,different,"The random numbers are different, and the count of positive numbers changes from 6 to 3."
+normalisation,N006,A1,same,
+normalisation,N007,A1,same,
+normalisation,N008,A1,same,
+normalisation,N009,A1,same,
+normalisation,N010,A1,same,
+normalisation,N011,A1,different,"The first execution completed successfully, but the second failed because the file train_joint.npy was missing."
+normalisation,N012,A1,different,The outputs show different system users and account information.
+normalisation,N013,A1,different,The first execution shows the model layers but fails with an IndexError. The second fails earlier because model is not defined.
+normalisation,N014,A1,different,
+normalisation,N015,A1,same,
+normalisation,N016,A1,different,
+normalisation,N017,A1,same,
+normalisation,N018,A1,same,
+normalisation,N019,A1,same,
+normalisation,N020,A1,same,
+normalisation,N021,A1,same,
+normalisation,N022,A1,same,
+normalisation,N023,A1,same,
+normalisation,N024,A1,same,
+normalisation,N025,A1,same,
+normalisation,N026,A1,same,
+normalisation,N027,A1,same,
+normalisation,N028,A1,same,
+normalisation,N029,A1,different,The calculated error values are different (0.5934 vs. 0.5698)
+normalisation,N030,A1,different,"The first returns True, but the second returns False, meaning the environment variables were not loaded successfully"
+normalisation,N031,A1,same,
+normalisation,N032,A1,same,
+normalisation,N033,A1,same,
+normalisation,N034,A1,same,
+normalisation,N035,A1,same,The differences are extremely small floating-point rounding differences and do not change the result
+normalisation,N036,A1,different,"The first output shows data and additional columns, while the second shows only column names with no rows"
+normalisation,N037,A1,different,The CAF ratio values are much lower in the second execution
+normalisation,N038,A1,same,
+normalisation,N039,A1,same,
+normalisation,N040,A1,same,
+normalisation,N041,A1,different,"The first execution fails with an AttributeError, while the second fails because the CSV file is missing"
+normalisation,N042,A1,same,
+normalisation,N043,A1,same,
+normalisation,N044,A1,same,
+normalisation,N045,A1,same,
+normalisation,N046,A1,same,
+normalisation,N047,A1,same,
+normalisation,N048,A1,different,
+normalisation,N049,A1,different,"The installed ddgs version changed from 9.5.2 to 9.16.0, along with dependency versions."
+normalisation,N050,A1,same,
+normalisation,N051,A1,same,
+normalisation,N052,A1,same,
+normalisation,N053,A1,different,"The first output contains multiple values, while the second returns an empty list."
+normalisation,N054,A1,same,
+normalisation,N055,A1,same,
+normalisation,N056,A1,same,
+normalisation,N057,A1,same,
+normalisation,N058,A1,same,
+normalisation,N059,A1,same,
+normalisation,N060,A1,same,
+normalisation,N061,A1,same,
+normalisation,N062,A1,different,The re-executed lists each contain an extra 7
+normalisation,N063,A1,same,
+normalisation,N064,A1,same,
+normalisation,N065,A1,same,
+normalisation,N066,A1,same,
+normalisation,N067,A1,same,
+normalisation,N068,A1,same,
+normalisation,N069,A1,same,
+normalisation,N070,A1,same,
+normalisation,N071,A1,same,
+normalisation,N072,A1,same,
+normalisation,N073,A1,same,
+normalisation,N074,A1,same,
+normalisation,N075,A1,different,
+normalisation,N076,A1,same,
+normalisation,N077,A1,same,
+normalisation,N078,A1,same,
+normalisation,N079,A1,different,
+normalisation,N080,A1,different,The outputs show different names and years
+normalisation,N081,A1,different,second returns an empty list
+normalisation,N082,A1,different,The training and validation errors are different
+normalisation,N083,A1,different,The histogram values differ
+normalisation,N084,A1,same,
+normalisation,N085,A1,same,
+normalisation,N086,A1,same,
+normalisation,N087,A1,same,
+normalisation,N088,A1,same,
+normalisation,N089,A1,same,
+normalisation,N090,A1,different,"The cell returns the current directory, and the two paths differ"
+normalisation,N091,A1,same,
+normalisation,N092,A1,same,
+normalisation,N093,A1,same,
+normalisation,N094,A1,same,
+normalisation,N095,A1,different,"The first output contains two records, while the second returns an empty list"
+normalisation,N096,A1,same,
+normalisation,N097,A1,same,
+normalisation,N098,A1,different,The two executions randomly selected different airlines
+normalisation,N099,A1,same,
+normalisation,N100,A1,same,
+normalisation,N101,A1,same,
+normalisation,N102,A1,same,
+normalisation,N103,A1,same,
+normalisation,N104,A1,same,
+normalisation,N105,A1,same,
+normalisation,N106,A1,same,
+normalisation,N107,A1,same,
+normalisation,N108,A1,same,
+normalisation,N109,A1,different,
+normalisation,N110,A1,same,
+normalisation,N111,A1,different,The optimization produces different values and parameters
+normalisation,N112,A1,same,
+normalisation,N113,A1,same,
+normalisation,N114,A1,same,
+normalisation,N115,A1,same,
+normalisation,N116,A1,same,
+normalisation,N117,A1,same,
+normalisation,N118,A1,same,
+normalisation,N119,A1,same,
+normalisation,N120,A1,same,

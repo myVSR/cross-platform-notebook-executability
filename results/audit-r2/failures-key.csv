@@ -1,0 +1,101 @@
+item,execution_id,run_id,platform,notebook,category,category_by_type,moved_by_context,expected,expected_by_type,error_type
+F001,2240,576,github,Python-DS-ML-Finance/Python for Finance - 5 - Time Series Analysis.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F002,5929,1538,codeberg,Connectors/Connectors/Connector_Mifaz.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F003,5543,1383,github,Ollama.ipynb,NETWORK_ERROR,NETWORK_ERROR,0,network,network,ConnectionError
+F004,5703,1456,github,Planar_data_classification_with_one_hidden_layer.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F005,4622,1107,codeberg,DV/class/001 (12 Jan)/main.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F006,5483,1369,codeberg,notebooks/trm_209k.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F007,1429,383,zenodo,gempipe-1.38.1/src/generated/5_pubchem.ipynb,EXECUTION_ENVIRONMENT_ERROR,EXECUTION_ENVIRONMENT_ERROR,0,environment,environment,CalledProcessError
+F008,141,31,github,notebooks/17_Quantum_machine_learning/4_quantum-kernel-methods.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,MissingOptionalLibraryError
+F009,623,113,codeberg,crates/ruff_server/resources/test/fixtures/tensorflow_test_notebook.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F010,5160,1281,zenodo,Zootert888-Thesis-Multilabel-classification-tool-for-Archaeology--4ff7d1b/connect txt to csv file.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F011,2085,548,github,Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/04_1_Graph_Classification_RDKit_GCNN.ipynb,EXECUTION_ENVIRONMENT_ERROR,EXECUTION_ENVIRONMENT_ERROR,0,environment,environment,CalledProcessError
+F012,3928,930,codeberg,4.SQL/Bai4_MySQL_Python_connect/Ex4_traloi_code_Pass_values_parameters.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F013,4312,960,codeberg,tutorials/Tutorial_6_CrypTen_on_AWS_instances.ipynb,EXECUTION_ENVIRONMENT_ERROR,EXECUTION_ENVIRONMENT_ERROR,0,environment,environment,CalledProcessError
+F014,5259,1311,codeberg,ps/ps-tema-1.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,PortAudioError
+F015,4369,991,zenodo,ai2cm-SamudrACE-CM4-piControl-GRL-4e8c355/manuscript/notebooks/figure-S09.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,UsageError
+F016,2648,687,zenodo,ShaAfr-underrepresentation_in_clinical_dataset-e591865/codes/mimic/result_processing/3_quick_analysis.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F017,3230,843,codeberg,lab2.2/movielens.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F018,603,113,codeberg,crates/ruff_notebook/resources/test/fixtures/jupyter/R.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,NameError
+F019,3359,875,github,1_foundations/community_contributions/2_lab2_exercise_BrettSanders_ChainOfThought.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F020,4632,1107,codeberg,DV/lab/lab-06/main.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F021,4981,1245,zenodo,DessimozLab-OmaDB-4f706e6/manuscript_examples.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F022,4750,1157,github,dl_model/training_dl_model.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,RuntimeError
+F023,1322,355,github,패스트캠퍼스/Python/[Python1_70] Package Module for Windows.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NO_OUTPUT_NOTEBOOK
+F024,90,24,zenodo,mspa.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F025,1295,355,github,엘리스/산업데이터를 활용한 인공지능 프로젝트/[p3] 반도체 공정 데이터를 활용한 공정 이상 예측.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NO_OUTPUT_NOTEBOOK
+F026,1555,400,codeberg,lectures/MLDA/Week 6/lab/Lab6.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F027,726,147,codeberg,notebooks/02-Random_Variables.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F028,5142,1275,codeberg,aoc/2025/11_2.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,NameError
+F029,4672,1118,github,module-5-decision-tree-assignment-1-blank.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F030,1325,356,github,food delivery.py.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,StdinNotImplementedError
+F031,2759,716,codeberg,notebooks/HATVP_v5_multiple_declarations_batches_of_100.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,NameError
+F032,4407,1020,codeberg,training.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F033,785,166,github,(PART 1-String and Lists) 20th August 2023 Python Assignment.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,StdinNotImplementedError
+F034,1862,485,zenodo,jupyter_plotting_code/k_alpha_basin_and_interpolated_map_with_boundaries.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F035,3220,839,zenodo,Smart Air Purifier.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,StdinNotImplementedError
+F036,77,16,codeberg,2023/Day 2.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F037,1857,485,zenodo,jupyter_plotting_code/compute_USDM_ET_csi.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F038,6004,1574,zenodo,dougrichardson-Richardson_2022_coffee-ce89484/0g_prepare_seasonal_climate_mode_data.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F039,3416,875,github,1_foundations/community_contributions/lab_1_with_azure_openai/1_lab1_azure.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F040,2069,548,github,Group01_Nanadni_Kajal_Assignment-4/Q5/VAE_5.ipynb,EXTERNAL_SERVICE_ERROR,NETWORK_ERROR,1,external,network,HTTPError
+F041,4175,948,codeberg,nbs/05_eddblocal.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,KeyError
+F042,5080,1255,codeberg,notebooks-tempest/Create Graphs of Vector Images from Tempest.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F043,5378,1343,github,notebook/01_eda.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,NameError
+F044,5884,1517,zenodo,5.1_combination_labeling.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F045,579,103,codeberg,notebooks/creation-dataset.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,RuntimeError
+F046,4583,1091,github,trial.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,ChatGoogleGenerativeAIError
+F047,5242,1308,github,3week_lecture.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F048,3245,847,codeberg,cours/git/git.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F049,3097,787,codeberg,UA/year-1/M2/P2_Derivada.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,NameError
+F050,4708,1142,codeberg,ml_practice.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F051,2092,548,github,Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/GCNN_Basics/04_ Fake_news_detection.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F052,5401,1347,codeberg,03_Iterations/03.1_Whiles.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F053,5785,1483,github,01 Just-In-Time Compilation.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,TracerBoolConversionError
+F054,745,147,codeberg,notebooks/A01-BASH_Unix_Shell.ipynb,EXECUTION_ENVIRONMENT_ERROR,EXECUTION_ENVIRONMENT_ERROR,0,environment,environment,CalledProcessError
+F055,3295,868,github,Iraq_war_analysis.ipynb,EXTERNAL_SERVICE_ERROR,DATA_ERROR,1,external,data,KeyError
+F056,3351,875,github,1_foundations/community_contributions/2_lab2.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F057,1649,423,zenodo,Dataset_download.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F058,1507,395,zenodo,mortonjt-asd_multiomics_analyses-a96ab6c/ipynb/core-16S-WGS-comparison.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F059,3260,854,github,gini_lorenz_subgroup/gini_subgroups.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,KeyError
+F060,5818,1486,github,FE_630_Final_Project.ipynb,EXTERNAL_SERVICE_ERROR,NETWORK_ERROR,1,external,network,HTTPError
+F061,4045,930,codeberg,6.Machine_Learning/Chap_04_Naive_Bayes/Ex2_BernoulliNB_Golf.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ImportError
+F062,3415,875,github,1_foundations/community_contributions/lab2workforadultsocialcare.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F063,3393,875,github,1_foundations/community_contributions/bot_board/bot_board.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F064,4667,1117,github,notebooks/tools.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,ValidationError
+F065,5559,1394,codeberg,cours/git/git.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F066,1524,395,zenodo,mortonjt-asd_multiomics_analyses-a96ab6c/ipynb/shotgun-analysis.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F067,336,58,zenodo,_sources/accessing-data/trove-api-intro.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,KeyError
+F068,2012,522,codeberg,notebooks/acelen_glp_raw.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,StdinNotImplementedError
+F069,886,195,github,UIII_Act6_tasa_de_interes.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,StdinNotImplementedError
+F070,6167,1605,github,Titanic_Survival_Prediction.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F071,799,177,zenodo,Sulstice-global-chem-8e8da1b/example_notebooks/development_operations/Development_Operations_Tutorial_001.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ImportError
+F072,5189,1292,zenodo,mask.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,TypeError
+F073,1936,491,codeberg,arc/hierarchical_negative.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,RuntimeError
+F074,5989,1566,zenodo,examples-notebooks/features.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,TypeError
+F075,184,32,github,experiments/notebooks/feature_disentanglement_with_vae.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F076,4666,1117,github,notebooks/rag_2.ipynb,EXTERNAL_SERVICE_ERROR,CODE_ERROR,1,external,code,TypeError
+F077,1711,452,codeberg,jupyter-notebooks/Pcostheta-tau-trajectories.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,IndexError
+F078,3374,875,github,1_foundations/community_contributions/4_lab4_slack.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,OpenAIError
+F079,1520,395,zenodo,mortonjt-asd_multiomics_analyses-a96ab6c/ipynb/preprocess-microbe-viral-interactions.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F080,1197,323,zenodo,experiment_bbfmr_rotation.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F081,3811,930,codeberg,2.Python_Visualize_for_DS/Buoi3_ pandas/3.2. pd_dataframe.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F082,2805,726,github,dev/predictions.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F083,4467,1032,zenodo,csandberg303-kba-threshold-sensitivity-analysis-140d1e7/1-set_initial_directories.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F084,5361,1339,codeberg,15_processing_sequences_using_rnns_and_cnns.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F085,5539,1381,codeberg,notebooks/single_frame_inference.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F086,2376,613,codeberg,data/2024/experimentation/experience-2/2_ditp_consolidation_and_update.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,KeyError
+F087,5218,1299,zenodo,napsternxg-PubMed_SelfCitationAnalysis-9a3ce1a/PRC_ROC All authors.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F088,2245,577,github,strategies/webhook.ipynb,NETWORK_ERROR,NETWORK_ERROR,0,network,network,ConnectionError
+F089,4747,1157,github,agents/visualize.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F090,3365,875,github,1_foundations/community_contributions/2_lab2_qualitycode_review.ipynb,DATA_ERROR,DATA_ERROR,0,data,data,ValueError
+F091,1445,383,zenodo,paper_gempipe-main/case_study/12_focus_galactose.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F092,2677,695,codeberg,chrysalis-lab/2026/lab_blueprint_symbiotic_chrysalis_16_04Feb26_Shield_smoke.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F093,3740,910,zenodo,scripts/Tcells/flow/01_importFCS_brain.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,TypeError
+F094,1175,314,zenodo,NCOMMS-25-68171/code/Truncation experiment.ipynb,OTHER_ERROR,OTHER_ERROR,0,other,other,RuntimeError
+F095,3783,926,zenodo,suinleelab-DeepSHAP-cae8ffb/4_feature_extraction/1 Compare XGB on raw and embed (MNIST).ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError
+F096,5600,1421,codeberg,notebooks/efficientnet.ipynb,EXTERNAL_SERVICE_ERROR,OTHER_ERROR,1,external,other,RuntimeError
+F097,4850,1194,zenodo,geco-bern-mlflx2-be92014/src/evaluation/legacy/Evaluation_clean.ipynb,FILE_ERROR,FILE_ERROR,0,file,file,FileNotFoundError
+F098,76,16,codeberg,2022/Day8.ipynb,CODE_ERROR,CODE_ERROR,0,code,code,SyntaxError
+F099,2235,576,github,Python-DS-ML-Finance/Python for Finance - 0 - Python Refresher.ipynb,EXECUTION_FAILURE,EXECUTION_FAILURE,0,no-execution,no-execution,NOTEBOOK_TIMEOUT
+F100,3617,892,github,MultiplePeopleWithCSV-Copy1.ipynb,DEPENDENCY_ERROR,DEPENDENCY_ERROR,0,dependency,dependency,ModuleNotFoundError

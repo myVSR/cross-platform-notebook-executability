@@ -1,0 +1,7 @@
+category,platform,url
+fixcheck-network,github,https://github.com/rihammisuk/DS_ML_python
+fixcheck-mirror,codeberg,https://codeberg.org/DevilsKitchen/COOP-FLOYD
+fixcheck-all-failed,github,https://github.com/karendgraham/pandas_homework
+fixcheck-archive,zenodo,https://zenodo.org/records/7290860
+fixcheck-tar-link,zenodo,https://zenodo.org/records/18188101
+fixcheck-validation,zenodo,https://zenodo.org/records/20407383

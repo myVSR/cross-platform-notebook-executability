@@ -1,0 +1,39 @@
+# ReproScore rubric used by this pipeline for ROS and RCS (src/reproscore_stage.py).
+# RRS is computed with ReproScore's default rubric (third_party/reproscore/config/default_rubric.yaml),
+# so readiness stays comparable with the ReproScore paper (TPDL 2026).
+# Difference to the default: the ROS component R (output reproduction = mean comparison-v2 score of the
+# notebooks with assessable cells; notebookfair patch 3) gets 0.15, and the six default components keep
+# their relative weights (default weight x 0.85). Categories, penalties and RCS are the defaults.
+name: notebookfair-v1
+version: "1.0"
+description: >
+  ReproScore default rubric plus the output-reproduction component R (weight 0.15) for re-executed
+  Jupyter notebooks with stored outputs.
+
+categories:
+  E: {weight: 0.30, tau: 40, k: 1.5}
+  A: {weight: 0.25, tau: 30, k: 1.5}
+  D: {weight: 0.20, tau: 20, k: 1.2}
+  C: {weight: 0.15, tau: 25, k: 1.2}
+  S: {weight: 0.10, tau: 30, k: 1.2}
+
+penalties:
+  environment_hard_threshold: 10
+  data_hard_threshold: 10
+  environment_hard_penalty: 20
+  data_hard_penalty: 15
+  seed_threshold: 50
+  seed_penalty: 10
+
+ros_components:
+  I:     {weight: 0.255,  description: "install success (default 0.30 x 0.85)"}
+  X:     {weight: 0.2125, description: "entry-point execution (default 0.25 x 0.85)"}
+  delta: {weight: 0.17,   description: "output determinism across runs (default 0.20 x 0.85)"}
+  N:     {weight: 0.085,  description: "notebook execution rate (default 0.10 x 0.85)"}
+  E:     {weight: 0.085,  description: "import success rate (default 0.10 x 0.85)"}
+  T:     {weight: 0.0425, description: "test pass rate (default 0.05 x 0.85)"}
+  R:     {weight: 0.15,   description: "output reproduction: re-executed vs stored notebook outputs"}
+
+rcs:
+  alpha_max: 0.70
+  alpha_min: 0.10

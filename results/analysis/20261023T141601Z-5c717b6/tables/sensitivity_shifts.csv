@@ -1,0 +1,43 @@
+variant,pair,shift,p_holm,primary_significant,same_conclusion,prespecified
+1 acquisition failures as Y=0,codeberg-github,-0.0014340679248339427,0.07137578030333308,False,True,True
+1 acquisition failures as Y=0,codeberg-zenodo,0.026696417264996636,5.307051425101765e-12,True,True,True
+1 acquisition failures as Y=0,github-zenodo,0.02813048518983058,9.359358546257625e-07,True,True,True
+2 deduplicated notebooks,codeberg-github,1.036513581831322e-05,0.06342840172271946,False,True,True
+2 deduplicated notebooks,codeberg-zenodo,-0.00019676418403316576,2.7151691261291935e-07,True,True,True
+2 deduplicated notebooks,github-zenodo,-0.00020712931985147898,0.0010303510666637959,True,True,True
+3 Python 3.10 declared only,codeberg-github,0.022270106823415237,0.7448888042397647,False,True,True
+3 Python 3.10 declared only,codeberg-zenodo,-0.010672735290910673,0.22577185263518842,True,False,True
+3 Python 3.10 declared only,github-zenodo,-0.03294284211432591,0.7448888042397647,True,False,True
+4 timeouts as missing,codeberg-github,0.002301667655129347,0.05596656697829626,False,True,True
+4 timeouts as missing,codeberg-zenodo,0.003559464217495256,1.7265137577277575e-07,True,True,True
+4 timeouts as missing,github-zenodo,0.0012577965623659093,0.0009943734624524479,True,True,True
+5 external services excluded,codeberg-github,0.0022388840873114324,0.05590658589583241,False,True,True
+5 external services excluded,codeberg-zenodo,0.003593052168051919,1.4702843156246515e-07,True,True,True
+5 external services excluded,github-zenodo,0.0013541680807404866,0.0008956363928077677,True,True,True
+7 Zenodo unknown content excluded,codeberg-github,0.0,0.06356219762953748,False,True,True
+7 Zenodo unknown content excluded,codeberg-zenodo,-0.0010925632838752475,3.4502532447127594e-07,True,True,True
+7 Zenodo unknown content excluded,github-zenodo,-0.0010925632838752475,0.001201748206713893,True,True,True
+8 infrastructure failures included as recorded,codeberg-github,0.0,0.06356219762953748,False,True,True
+8 infrastructure failures included as recorded,codeberg-zenodo,-1.4328323277607025e-05,1.7375321627237154e-07,True,True,True
+8 infrastructure failures included as recorded,github-zenodo,-1.4328323277607025e-05,0.0008435075319830766,True,True,True
+9 notebooks without execution record excluded,codeberg-github,0.0,0.06356219762953748,False,True,True
+9 notebooks without execution record excluded,codeberg-zenodo,0.0,2.2316166649971757e-07,True,True,True
+9 notebooks without execution record excluded,github-zenodo,0.0,0.0009394082957867364,True,True,True
+10 runs with infrastructure install failures excluded,codeberg-github,0.0,0.06356219762953748,False,True,True
+10 runs with infrastructure install failures excluded,codeberg-zenodo,0.0,1.6715568280371036e-07,True,True,True
+10 runs with infrastructure install failures excluded,github-zenodo,0.0,0.0008288353423779654,True,True,True
+E1 Python version not moved,codeberg-github,0.00647792561146554,0.056266359870214604,False,True,False
+E1 Python version not moved,codeberg-zenodo,-0.004554168138189929,5.699368485778551e-06,True,True,False
+E1 Python version not moved,github-zenodo,-0.01103209374965547,0.014026882691104359,True,True,False
+E2 package-date cutoff applied (no Python 3.8 runs),codeberg-github,0.014155866913438148,0.03781604856023994,False,False,False
+E2 package-date cutoff applied (no Python 3.8 runs),codeberg-zenodo,0.0031877991834323993,3.820406850844567e-06,True,True,False
+E2 package-date cutoff applied (no Python 3.8 runs),github-zenodo,-0.010968067730005748,0.02106801317606414,True,True,False
+E3 archives unpacked into one folder with environment files excluded,codeberg-github,0.0,0.06356219762953748,False,True,False
+E3 archives unpacked into one folder with environment files excluded,codeberg-zenodo,-0.006167596546897164,7.979122872943524e-06,True,True,False
+E3 archives unpacked into one folder with environment files excluded,github-zenodo,-0.006167596546897164,0.00583478750720771,True,True,False
+R previous round,codeberg-github,0.00854251222209701,0.029040125186453394,False,False,False
+R previous round,codeberg-zenodo,-0.011516592296013234,1.9955631734074816e-05,True,True,False
+R previous round,github-zenodo,-0.020059104518110243,0.026449128551276003,True,True,False
+L other-language notebooks included (as run),codeberg-github,-0.017541002367452208,0.23670819885092811,False,True,False
+L other-language notebooks included (as run),codeberg-zenodo,-0.015760454865807266,2.5134954553458104e-06,True,True,False
+L other-language notebooks included (as run),github-zenodo,0.0017805475016449412,0.0005927801612830289,True,True,False

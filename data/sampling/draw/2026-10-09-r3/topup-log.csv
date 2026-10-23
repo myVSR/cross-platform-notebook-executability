@@ -1,0 +1,335 @@
+topup,logged_at,platform,stratum,year,url,role,outcome,run_status,action,replaced_by,match
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5513445,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4743746,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18803462,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19896278,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/14825187,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17654482,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5639481,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4480745,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20754460,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/21075724,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8252021,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8405977,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/6650679,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7366699,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18507434,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/20268702,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/16949349,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/14908197,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/14545506,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13999460,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/16787091,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14415557,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20760217,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20074059,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18630880,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/20561186,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/13342103,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/11260733,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/21003835,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20274294,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/10722998,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13856533,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/7925609,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7520273,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/11239567,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/14227711,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/14811963,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/17693506,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/17844626,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15263434,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/10838475,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10510991,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20937383,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18856454,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2020,https://zenodo.org/records/3949849,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3630703,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/11479756,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/14230274,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/10806686,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13992420,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/7747186,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/7972525,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5037078,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5172755,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/4941166,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4473008,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18176599,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18331679,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18342898,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20798568,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2021,https://zenodo.org/records/5753695,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5255228,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18260253,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18258593,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/15605098,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15632482,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2026,https://zenodo.org/records/19925633,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/19579427,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18760865,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19495438,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/10887916,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/10974908,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18620430,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19241458,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/7852821,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10044515,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/15607504,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17614863,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/7255562,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6477981,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/17610667,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15339811,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2021,https://zenodo.org/records/4608398,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5567962,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8014246,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8205692,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17493913,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15765738,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/4751564,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4982288,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/15117932,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/16799659,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/6597504,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6671728,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/8223844,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/8185128,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/10418936,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7860860,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/8370704,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8340472,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/7058801,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5787557,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/14285981,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3924659,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2017,https://zenodo.org/records/1086417,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/1095736,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17241317,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15731936,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/14915192,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17436591,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2017,https://zenodo.org/records/843625,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/841989,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2019,https://zenodo.org/records/3533418,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/2552898,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/21032006,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20431440,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2026,https://zenodo.org/records/18190143,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/17432967,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/7185636,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/6374203,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/6390003,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7014096,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2017,https://zenodo.org/records/574047,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/583094,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20407383,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/20707866,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z1,2025,https://zenodo.org/records/15019090,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15724057,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18788709,primary,not_obtainable,INVALID_ZENODO_RECORD,replaced,https://zenodo.org/records/21072066,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/19704505,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/1435002,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17088535,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15278166,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/15131186,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15263862,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/11408342,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4570971,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17958184,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14843672,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/7749057,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7743263,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/7695571,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7703906,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8158489,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10345982,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2018,https://zenodo.org/records/1163032,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10864510,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20998558,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6941578,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20028286,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5904082,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2020,https://zenodo.org/records/3892637,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/3926678,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/14903509,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/18096371,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/17957427,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15195713,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/5959618,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20376060,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/5582648,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7342067,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/14198499,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5495242,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2021,https://zenodo.org/records/5457267,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7944682,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/15261630,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17413110,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/7974307,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/8407782,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/14991882,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15559525,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/4996898,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5575083,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2017,https://zenodo.org/records/60046,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7195616,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8036528,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7575456,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/5727042,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18476172,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/12569159,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17767448,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5496927,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5647374,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2023,https://zenodo.org/records/8028061,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7599871,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/6812953,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/17379299,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20829915,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17418678,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/14531709,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/10912246,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2020,https://zenodo.org/records/3629955,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4037066,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5059957,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5612316,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/10525257,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20843976,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20761834,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15655903,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/15123526,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3891924,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/6320858,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20019571,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/7467038,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11164949,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20936344,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15574155,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20504831,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17158258,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/13758209,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/14187581,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20394514,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8187501,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20136595,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4487116,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2026,https://zenodo.org/records/20403107,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/20499121,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/6283798,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20259673,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2026,https://zenodo.org/records/20347874,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18310679,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/10908755,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18040009,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/13351169,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17373192,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2021,https://zenodo.org/records/5648794,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3472050,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20941568,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18176654,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20922272,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20257425,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2021,https://zenodo.org/records/4524537,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18319354,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/14909099,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15052431,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2021,https://zenodo.org/records/5699056,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15800561,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/14521100,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/19348485,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17218304,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15758241,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/18656686,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/12639976,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17929954,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/19008609,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/10611819,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/13959996,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/10478745,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/11218468,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/7324460,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/18146279,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/13346381,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/10967242,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/13696418,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/20789918,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2024,https://zenodo.org/records/11523880,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18146717,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2026,https://zenodo.org/records/20815606,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15072252,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2025,https://zenodo.org/records/16737198,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15719666,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/10143465,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18929469,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2026,https://zenodo.org/records/20763973,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18973688,same stratum and year
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2020,https://zenodo.org/records/3981513,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15491944,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8169063,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19565155,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/18005383,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/19212105,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/8218129,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17321193,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/6512301,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8028423,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/6887171,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/10571680,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/14921818,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15281967,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2022,https://zenodo.org/records/7126187,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13143415,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2025,https://zenodo.org/records/17636519,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20055775,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2023,https://zenodo.org/records/7980814,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/17089956,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z2,2020,https://zenodo.org/records/4402838,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17365622,platform
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/10451123,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15606831,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2022,https://zenodo.org/records/6578743,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15366382,same stratum
+1,2026-10-10T22:01:00+00:00,zenodo,Z3,2024,https://zenodo.org/records/11110184,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/11207569,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2021,https://zenodo.org/records/3735686,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14568081,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2026,https://zenodo.org/records/19163368,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8428849,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2025,https://zenodo.org/records/15045770,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11104400,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2017,https://zenodo.org/records/154112,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11004008,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2024,https://zenodo.org/records/13882625,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8320957,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2026,https://zenodo.org/records/18838576,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4589040,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2023,https://zenodo.org/records/7953836,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11099261,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2021,https://zenodo.org/records/5014884,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/18181963,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2025,https://zenodo.org/records/15494291,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18782408,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2021,https://zenodo.org/records/4432081,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13988167,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2025,https://zenodo.org/records/17294743,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17911910,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2026,https://zenodo.org/records/18608254,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18355981,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2022,https://zenodo.org/records/6842019,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15397720,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2024,https://zenodo.org/records/13986329,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/18376012,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2026,https://zenodo.org/records/20588596,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19759037,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2017,https://zenodo.org/records/582937,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6461872,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2025,https://zenodo.org/records/18027147,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6974260,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2024,https://zenodo.org/records/10543028,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18449889,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z3,2026,https://zenodo.org/records/18374537,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7417728,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2023,https://zenodo.org/records/8136452,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17689311,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2025,https://zenodo.org/records/15873360,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19303332,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2022,https://zenodo.org/records/6374239,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10065062,platform
+2,2026-10-11T02:02:53+00:00,zenodo,Z2,2026,https://zenodo.org/records/20712419,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20672071,platform
+3,2026-10-22T06:58:29+00:00,codeberg,,2025,https://codeberg.org/KBNLresearch/ochre,primary,pipeline_error,DISK_FULL,re-run,,
+3,2026-10-22T06:58:29+00:00,codeberg,,2025,https://codeberg.org/ryancahildebrandt/dists,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,codeberg,,2026,https://codeberg.org/SparkCoder/TriangleAdjacencyMatrix,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,codeberg,,2026,https://codeberg.org/nata/pseudonymisation-reidentification,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,codeberg,,2026,https://codeberg.org/vinnyraster/geo2,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,codeberg,,2026,https://codeberg.org/edinho/grupy-dask,primary,pipeline_error,KERNEL_START_FAIL,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2021,https://github.com/Dulali/NumPy-Pandas-Matplotlib-Scipy-,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2019,https://github.com/larserikfagernaes/IRISSunspotDetector,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2020,https://github.com/ingwersen96/IMDB,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2025,https://github.com/nageshsarode52/Regression---Yes-Bank-Stock-Closing-Price-Prediction-Video-presentation-,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2026,https://github.com/TECHLORIC/ElevateLabs-AIML-Internship,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2023,https://github.com/oluwafavourmi/HYPERPARAMETER-TUNING,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2021,https://github.com/123aryankhandelwal/FingerSpell-ASL,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,github,,2026,https://github.com/MikkelFrank/Sales-Data-Analysis-Report,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2023,https://zenodo.org/records/8278193,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10246229,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2019,https://zenodo.org/records/3386508,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3242143,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2021,https://zenodo.org/records/5718799,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5701393,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2019,https://zenodo.org/records/3234218,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3540683,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/15133662,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/16896540,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/19861624,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/21070920,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2020,https://zenodo.org/records/3962789,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3764792,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2023,https://zenodo.org/records/10113616,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7687815,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/17062395,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15771790,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2019,https://zenodo.org/records/3370076,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7760270,same stratum
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2025,https://zenodo.org/records/15502409,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15200274,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2018,https://zenodo.org/records/1142555,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/1435969,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/18523297,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20086849,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20834747,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20942308,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2023,https://zenodo.org/records/10397102,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8247595,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2022,https://zenodo.org/records/5970586,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/6323189,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/15100830,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17659890,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2019,https://zenodo.org/records/2705516,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3340196,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/17299072,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15727180,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20975074,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19352368,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20823414,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19173545,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2020,https://zenodo.org/records/4286164,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3778994,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/18337704,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18201713,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2023,https://zenodo.org/records/7580024,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/8364708,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2024,https://zenodo.org/records/11075515,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11218663,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2016,https://zenodo.org/records/154083,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/58748,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2025,https://zenodo.org/records/15593753,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17552486,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20785145,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17491084,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/15696479,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15121701,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20987978,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18607143,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2025,https://zenodo.org/records/17942492,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17251449,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2021,https://zenodo.org/records/4975198,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5167966,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/20817533,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20432353,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2024,https://zenodo.org/records/10993568,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/13236977,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2024,https://zenodo.org/records/10406384,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10457321,same stratum and year
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2018,https://zenodo.org/records/1491315,primary,pipeline_error,KERNEL_START_FAIL,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2021,https://zenodo.org/records/3735686,primary,pipeline_error,DISK_FULL,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2021,https://zenodo.org/records/5457267,primary,pipeline_error,DISK_FULL,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2022,https://zenodo.org/records/6283798,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z3,2021,https://zenodo.org/records/5648794,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/18027147,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2022,https://zenodo.org/records/7403526,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2025,https://zenodo.org/records/15679129,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z1,2020,https://zenodo.org/records/4266415,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2026,https://zenodo.org/records/21041929,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2021,https://zenodo.org/records/4549663,primary,not_run,,re-run,,
+3,2026-10-22T06:58:29+00:00,zenodo,Z2,2021,https://zenodo.org/records/5140084,primary,pipeline_error,DISK_FULL,re-run,,
+4,2026-10-22T14:00:38+00:00,codeberg,,2026,https://codeberg.org/edinho/grupy-dask,primary,pipeline_error,KERNEL_START_FAIL,re-run,,
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2025,https://zenodo.org/records/15679129,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/18072817,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2022,https://zenodo.org/records/6580182,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7262352,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2025,https://zenodo.org/records/17731089,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17592234,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2020,https://zenodo.org/records/3826502,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4057894,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2024,https://zenodo.org/records/11081379,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/12796340,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2026,https://zenodo.org/records/20047479,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15359828,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2021,https://zenodo.org/records/4936018,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4555981,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2023,https://zenodo.org/records/8139160,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7792131,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2021,https://zenodo.org/records/5011871,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5541567,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/21041929,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19559943,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2026,https://zenodo.org/records/20130371,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19398138,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2020,https://zenodo.org/records/4306838,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/3599800,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2021,https://zenodo.org/records/4766987,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4746302,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2022,https://zenodo.org/records/6866984,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7137482,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2023,https://zenodo.org/records/10371754,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8211985,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2023,https://zenodo.org/records/7790050,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/8127650,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2023,https://zenodo.org/records/7729566,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/8197028,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2025,https://zenodo.org/records/15870940,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17791820,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2021,https://zenodo.org/records/4549663,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5059813,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2021,https://zenodo.org/records/4589484,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5792146,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2024,https://zenodo.org/records/14046527,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10962631,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/18319249,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17462524,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2025,https://zenodo.org/records/17142958,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17058125,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2025,https://zenodo.org/records/14768802,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15109768,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2022,https://zenodo.org/records/5834378,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6363839,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/20758699,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20670029,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2024,https://zenodo.org/records/10631963,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10577535,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z3,2025,https://zenodo.org/records/15723831,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17601768,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/21055024,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20762203,same stratum and year
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2018,https://zenodo.org/records/1491315,primary,pipeline_error,KERNEL_START_FAIL,re-run,,
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/19173545,reserve,pipeline_error,KERNEL_START_FAIL,re-run,,
+4,2026-10-22T14:00:38+00:00,zenodo,Z2,2026,https://zenodo.org/records/20432353,reserve,pipeline_error,DISK_FULL,re-run,,
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2025,https://zenodo.org/records/16432299,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/15178709,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2021,https://zenodo.org/records/5140084,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5715726,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/20860870,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20038951,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/20573976,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20155164,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/20274636,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18527477,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2025,https://zenodo.org/records/15637911,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15480554,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2021,https://zenodo.org/records/5003652,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5083685,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2026,https://zenodo.org/records/19880016,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18862240,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2023,https://zenodo.org/records/8357067,primary,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7916346,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2026,https://zenodo.org/records/20538205,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18205014,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/17737099,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/581383,same stratum
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2024,https://zenodo.org/records/12188970,primary,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/11218345,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2020,https://zenodo.org/records/3630703,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4273768,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2021,https://zenodo.org/records/4743746,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4627971,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2020,https://zenodo.org/records/3924659,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/3970764,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/19896278,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6865044,same stratum
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2021,https://zenodo.org/records/5255228,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6849060,same stratum
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2024,https://zenodo.org/records/13992420,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/13345093,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2024,https://zenodo.org/records/11260733,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/13768247,same stratum and year
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2026,https://zenodo.org/records/19173545,reserve,pipeline_error,KERNEL_START_FAIL,re-run,,
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2021,https://zenodo.org/records/5059813,reserve,pipeline_error,DISK_FULL,re-run,,
+5,2026-10-22T21:02:45+00:00,zenodo,Z2,2025,https://zenodo.org/records/17791820,reserve,pipeline_error,DISK_FULL,re-run,,
+5,2026-10-22T21:02:45+00:00,zenodo,Z3,2025,https://zenodo.org/records/15109768,reserve,pipeline_error,DISK_FULL,re-run,,
+6,2026-10-22T22:04:30+00:00,zenodo,Z2,2023,https://zenodo.org/records/8205692,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10152921,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2023,https://zenodo.org/records/7972525,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7990823,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2025,https://zenodo.org/records/14908197,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/16516667,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2021,https://zenodo.org/records/5172755,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/4469988,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2025,https://zenodo.org/records/17693506,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14650006,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2026,https://zenodo.org/records/19579427,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19631605,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2021,https://zenodo.org/records/4473008,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5009690,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z2,2026,https://zenodo.org/records/20561186,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/1325126,same stratum
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2024,https://zenodo.org/records/10974908,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/10876909,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2022,https://zenodo.org/records/7366699,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/5837958,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z3,2025,https://zenodo.org/records/15263434,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17789877,same stratum and year
+6,2026-10-22T22:04:30+00:00,zenodo,Z2,2024,https://zenodo.org/records/14227711,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13358324,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2021,https://zenodo.org/records/4982288,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5042710,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2017,https://zenodo.org/records/1095736,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/255478,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2026,https://zenodo.org/records/17432967,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/16921445,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2025,https://zenodo.org/records/15339811,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15653342,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2024,https://zenodo.org/records/10864510,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10940095,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2026,https://zenodo.org/records/20376060,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/20507006,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z2,2026,https://zenodo.org/records/18856454,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6477659,same stratum
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2023,https://zenodo.org/records/8185128,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10142295,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z2,2025,https://zenodo.org/records/17614863,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14640793,same stratum and year
+7,2026-10-22T22:36:11+00:00,zenodo,Z3,2026,https://zenodo.org/records/20019571,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17727180,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z3,2026,https://zenodo.org/records/20499121,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/19556935,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z2,2022,https://zenodo.org/records/5904082,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7113422,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z2,2021,https://zenodo.org/records/5495242,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6612464,same stratum
+8,2026-10-22T23:38:01+00:00,zenodo,Z3,2021,https://zenodo.org/records/5575083,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/4977025,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z2,2025,https://zenodo.org/records/15765738,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17865189,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z3,2026,https://zenodo.org/records/18310679,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/19222208,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z2,2025,https://zenodo.org/records/15731936,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/15055771,same stratum and year
+8,2026-10-22T23:38:01+00:00,zenodo,Z3,2019,https://zenodo.org/records/3472050,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/6962474,same stratum
+9,2026-10-23T00:39:51+00:00,zenodo,Z3,2020,https://zenodo.org/records/3926678,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7114651,same stratum
+9,2026-10-23T00:39:51+00:00,zenodo,Z3,2024,https://zenodo.org/records/10912246,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10727235,same stratum and year
+9,2026-10-23T00:39:51+00:00,zenodo,Z3,2025,https://zenodo.org/records/16799659,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17946463,same stratum and year
+9,2026-10-23T00:39:51+00:00,zenodo,Z3,2020,https://zenodo.org/records/4037066,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/1204292,same stratum
+10,2026-10-23T01:41:42+00:00,zenodo,Z2,2024,https://zenodo.org/records/10510991,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10652976,same stratum and year
+10,2026-10-23T01:41:42+00:00,zenodo,Z2,2026,https://zenodo.org/records/18258593,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/13120,same stratum
+10,2026-10-23T01:41:42+00:00,zenodo,Z3,2024,https://zenodo.org/records/14187581,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/12803855,same stratum and year
+11,2026-10-23T02:13:37+00:00,zenodo,Z3,2026,https://zenodo.org/records/18146279,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/7262220,same stratum
+11,2026-10-23T02:13:37+00:00,zenodo,Z2,2022,https://zenodo.org/records/7195616,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/14524895,same stratum
+12,2026-10-23T02:47:03+00:00,zenodo,Z3,2022,https://zenodo.org/records/6671728,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/7469513,same stratum and year
+13,2026-10-23T03:20:51+00:00,zenodo,Z3,2017,https://zenodo.org/records/583094,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/574054,same stratum and year
+14,2026-10-23T03:55:09+00:00,zenodo,Z3,2025,https://zenodo.org/records/15559525,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/17428464,same stratum and year
+15,2026-10-23T04:29:23+00:00,zenodo,Z3,2021,https://zenodo.org/records/5647374,reserve,not_obtainable,ZENODO_DOWNLOAD_FAILED,replaced,https://zenodo.org/records/5517238,same stratum and year
+16,2026-10-23T05:02:59+00:00,zenodo,Z3,2024,https://zenodo.org/records/13959996,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/10288179,same stratum
+17,2026-10-23T05:35:50+00:00,zenodo,Z3,2026,https://zenodo.org/records/20789918,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/6363016,same stratum
+18,2026-10-23T06:08:26+00:00,zenodo,Z3,2025,https://zenodo.org/records/15052431,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/815629,same stratum
+19,2026-10-23T06:41:05+00:00,zenodo,Z3,2024,https://zenodo.org/records/11218468,reserve,ineligible,NO_NOTEBOOKS,replaced,https://zenodo.org/records/18420197,platform

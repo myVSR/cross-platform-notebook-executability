@@ -1,0 +1,13 @@
+platform,sample,outcome,resources
+codeberg,sample,analysable,455
+codeberg,sample,ineligible,41
+codeberg,sample,not_obtainable,3
+codeberg,sample,pipeline_error,1
+github,sample,analysable,495
+github,sample,ineligible,4
+github,sample,not_obtainable,1
+zenodo,infrastructure,not_obtainable,1
+zenodo,sample,analysable,386
+zenodo,sample,ineligible,309
+zenodo,sample,not_obtainable,102
+zenodo,sample,pipeline_error,2

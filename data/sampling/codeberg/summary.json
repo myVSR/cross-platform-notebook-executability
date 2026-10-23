@@ -1,0 +1,54 @@
+{
+  "exported_at": "2026-10-08T23:18:21+00:00",
+  "cutoff": "2026-07-01",
+  "frame": "frame-codeberg-2026-10-08.csv.gz",
+  "frame_sha256": "c407f350b395926ba558ac1fb1eba33d8714d73bcdbb7391790a69984ed45f05",
+  "filter_steps": {
+    "listed": 447760,
+    "fork": 35270,
+    "mirror": 138,
+    "empty": 22414,
+    "private": 0,
+    "created_on_or_after_cutoff": 64269,
+    "screen_candidates": 325669,
+    "languages_checked": 325669,
+    "languages_http_status": {
+      "200": 325503,
+      "404": 166
+    },
+    "screened_in_jupyter": 3227,
+    "unlistable_entries": {
+      "1": 1,
+      "2": 1
+    },
+    "check_order": {
+      "candidates_ordered": 325669,
+      "checked": 325669,
+      "checked_fraction": 1.0,
+      "complete": true,
+      "estimated_screened_in_total": 3229,
+      "note": "estimate = screened-in / (checked with HTTP 200 / candidates); exact when complete"
+    }
+  },
+  "passes": {
+    "1": 8949,
+    "2": 8949
+  },
+  "x_total_count_last": 447432,
+  "treecheck": [
+    {
+      "seed": 20261005,
+      "sampled": 500,
+      "read": 499,
+      "with_ipynb": 0,
+      "false_negative_rate": 0.0
+    }
+  ],
+  "requests_logged": 344229,
+  "meta": {
+    "check_order_seed": "20261005",
+    "enumerate_pass_1_finished": "2026-10-08T23:15:51+00:00",
+    "enumerate_pass_2_finished": "2026-10-08T23:16:28+00:00",
+    "languages_finished": "2026-10-08T23:16:32+00:00"
+  }
+}

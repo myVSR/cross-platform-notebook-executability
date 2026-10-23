@@ -1,0 +1,312 @@
+notebook,run,installed,first_error,missing_module,affected
+hpc/results/study-r2-1-main/task-0/artifacts/run-24/executed/symm_wraps.ipynb.gz,hpc/results/study-r2-1-main/task-0/artifacts/run-24,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-10/executed/0_Bayesian_Inference.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-10,True,ModuleNotFoundError,distutils,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-19/executed/E06_cov_drift/code/paper2_colab.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-19,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-24/executed/kaggle/notebook.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-24,False,,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Machine Learning - Notebooks in English/13-Logistic-Regression/How it works - Logistic Regression with Python - Titanic Case Study.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,ValueError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Machine Learning - Notebooks in English/20-Natural Language Processing/How it works - Natural Language Processing with Python.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Machine Learning - Notebooks in English/20-Natural Language Processing/Practicing - Natural Language Processing Toolkit for Python.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Project - Car Price Prediction/Project - Car Price Prediction.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,ValueError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Project - Stroke Prediction Problem/Project - Stroke prediction problem.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Python-DS-ML-Finance/Python for Finance - 1 - Return Rate and Risk Analysis.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,KeyError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Python-DS-ML-Finance/Python for Finance - 2 - Portfolio Allocation and Optimization.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,KeyError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Python-DS-ML-Finance/Python for Finance - 5 - Time Series Analysis.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,ValueError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Python-DS-ML-Finance/Python for Finance - 7 - Sentiment Analysis and Exploration of Financial Texts.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-1/artifacts/run-6/executed/Python-DS-ML-Finance/Python para Finanças Análise de Dados e Machine Learning/Python for Finance - Data Analysis and Machine Learning.ipynb.gz,hpc/results/study-r2-1-main/task-1/artifacts/run-6,False,,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-14/executed/rag_from_scratch_10_and_11.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-14,True,SyntaxError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-14/executed/rag_from_scratch_12_to_14.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-14,True,SyntaxError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-14/executed/rag_from_scratch_15_to_18.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-14,True,SyntaxError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-14/executed/rag_from_scratch_1_to_4.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-14,False,SyntaxError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-14/executed/rag_from_scratch_5_to_9.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-14,False,SyntaxError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-24/executed/segmentation_BiRefNet_huggingface_.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-24,True,ValueError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-27/executed/1_introduction.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-27,False,,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-27/executed/3_naive_bayes_text_classification_sentiment.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-27,False,,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_1_HATVP_RAG_Convert_XML_to_JSON.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_2_HATVP_RAG_Convert_JSON_to_text.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_3_HATVP_RAG_Convert_JSON_to_text_index.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_4_HATVP_RAG_Convert_JSON_to_text_with_metadata.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,NameError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_5_HATVP_Llangchain_on_JSON_dataset_3_NO_chunks.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/Part_6_HATVP_RAG_Light_functional_version.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/failed experiments/(failed_notebook)_HATVP_Dataset_creation_XML_Markdown.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/failed experiments/(failed_notebook)_HATVP_Llangchain_on_markdown_dataset_1_chunks.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/failed experiments/(failed_notebook)_HATVP_Llangchain_on_markdown_dataset_2_NO_chunks.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-40/executed/RAG/failed experiments/(failed_notebook)_HATVP_RAG_LANCHAIN_OPENAI_GROQ.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-40,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/Bart_large_mnli_training.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/Copy_of_oracle_roberta_nli_quantemp.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/notebooks/Another_copy_of_oracle_roberta_nli_quantemp.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/notebooks/bart-large-mnli-training (1).ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/notebooks/creation-dataset.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,True,RuntimeError,,False
+hpc/results/study-r2-1-main/task-10/artifacts/run-50/executed/notebooks/debarta-training.ipynb.gz,hpc/results/study-r2-1-main/task-10/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-16/executed/tools/YOLOv7CoreML.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-16,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-16/executed/tools/YOLOv7onnx.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-16,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-16/executed/tools/YOLOv7trt.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-16,True,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-16/executed/tools/compare_YOLOv7_vs_YOLOv5m6.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-16,True,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-21/executed/okkymabruri-news-watch-eb1aa82/notebook/api-reference.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-21,True,NewsWatchError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-21/executed/okkymabruri-news-watch-eb1aa82/notebook/run-newswatch-on-colab.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-21,False,,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-26/executed/PassivePyTest.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-26,True,TypeError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-41/executed/process.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-41,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-44/executed/talkmap.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-44,False,ConfigurationError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-46/executed/test.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-46,False,ImportError,,False
+hpc/results/study-r2-1-main/task-11/artifacts/run-9/executed/crates/ruff_server/resources/test/fixtures/tensorflow_test_notebook.ipynb.gz,hpc/results/study-r2-1-main/task-11/artifacts/run-9,False,ModuleNotFoundError,pkg_resources,False
+hpc/results/study-r2-1-main/task-12/artifacts/run-37/executed/大一小学期/Week_3-Python/docs/soup/BeatifulSoup4.ipynb.gz,hpc/results/study-r2-1-main/task-12/artifacts/run-37,False,,,False
+hpc/results/study-r2-1-main/task-12/artifacts/run-40/executed/TermDeposit.ipynb.gz,hpc/results/study-r2-1-main/task-12/artifacts/run-40,True,ValueError,,False
+hpc/results/study-r2-1-main/task-13/artifacts/run-13/executed/FinalProj_Rosario_Anoos (1).ipynb.gz,hpc/results/study-r2-1-main/task-13/artifacts/run-13,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-13/artifacts/run-16/executed/Cytonemes/Notebook_&_Data/Cytonemes.ipynb.gz,hpc/results/study-r2-1-main/task-13/artifacts/run-16,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-15/executed/RL_for_supply_chain.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-15,False,,,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-24/executed/RandomCompression_Example_VAMPnet_AlanineDipeptide.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-24,False,ModuleNotFoundError,yaml,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-25/executed/NgrokStreamLit.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-25,True,PyngrokNgrokError,,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-25/executed/Test_Our_Chatbot.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-25,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-32/executed/green_computing.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-32,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-14/artifacts/run-37/executed/notebooks/Nathalie_Pangalos_PRACTICA_2.ipynb.gz,hpc/results/study-r2-1-main/task-14/artifacts/run-37,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-10/executed/Data Collection with Web Scraping.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-10,False,IndexError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-10/executed/EDA.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-10,True,,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-10/executed/Interactive Visual Analytics with Folium lab.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-10,False,,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-11/executed/bonetrade-visual-dissimilarity-9a56dce/neural-network-visual-dissimilarity/Human_Remains_OSLNN_Triplet_Loss.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-11,False,SystemError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-11/executed/bonetrade-visual-dissimilarity-9a56dce/neural-network-visual-dissimilarity/augmenting_images_for_dataset.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-11,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/loulou_version_stable_diffusion_v2_512x512.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/loulou_version_stable_diffusion_v2_768x768.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/lv_SD_1.5 - image_to_image.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/lv_SD_1.5.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/lv_SD_2.0 - image_to_image.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-14/executed/project/upscale_via_stable_diffusion_x4.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-14,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-22/executed/Task6_KNN_Classification/Task6_KNN.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-22,False,,,False
+hpc/results/study-r2-1-main/task-15/artifacts/run-45/executed/패스트캠퍼스/Python/5일차/08_module_package.ipynb.gz,hpc/results/study-r2-1-main/task-15/artifacts/run-45,False,NameError,,False
+hpc/results/study-r2-1-main/task-16/artifacts/run-42/executed/kadabra.ipynb.gz,hpc/results/study-r2-1-main/task-16/artifacts/run-42,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-16/artifacts/run-8/executed/2_python_para_data_science_trabalhando_com_funcoes_estruturas_de_dados_e_excecoes/Python_para_Data_Science_Funcoes_Estruturas_Excecoes_Completo.ipynb.gz,hpc/results/study-r2-1-main/task-16/artifacts/run-8,True,NameError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-13/executed/talkmap.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-13,False,ImportError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-13/executed/talkmap_out.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-13,False,ImportError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-33/executed/TZ_dcgan_faces_tutorial.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-33,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-41/executed/recovid-19.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-41,False,ModuleNotFoundError,matplotlib,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Airflow_jinja_context.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,True,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Введение_в_Airflow_Задание_0.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,True,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Введение_в_Airflow_Задание_1.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Введение_в_Airflow_Контекст_задачи.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Введение_в_Airflow_Проектная_работа_1.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/3_Введение_в_Airflow_Проектная_работа_2.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/4_Airflow_Проектная_работа_3.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/5_Best_practices_Задача_3.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/5_Best_practices_Задача_4.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/5_Best_practices_Кастомный_Operator.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,False,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/5_Best_practices_Проектная_работа_4.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,True,OSError,,False
+hpc/results/study-r2-1-main/task-17/artifacts/run-50/executed/6_Airflow_Examination.ipynb.gz,hpc/results/study-r2-1-main/task-17/artifacts/run-50,True,OSError,,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-22/executed/amazon-personalize-samples/next_steps/data_science/offline_performance_evaluation/personalize_temporal_holdout.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-22,False,NoRegionError,,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-22/executed/amazon-personalize-samples/next_steps/workshops/Reinvent_2019/ReInvent2019_Workshop.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-22,True,NoRegionError,,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-25/executed/ann/cartpole.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-25,False,,,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-25/executed/diffusion/semi-supervised_learning.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-25,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-36/executed/IMP301_PROJECT.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-36,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-18/artifacts/run-36/executed/IMP301_PROJECT_UPDATE.ipynb.gz,hpc/results/study-r2-1-main/task-18/artifacts/run-36,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-13/executed/listspam.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-13,True,BadRequestError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q5/VAE_5.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,HTTPError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/01_2_Data_Handling_PyGeometric.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/01_3_Data_Handling_and_TransformerConv_Graph_Prediction_Model.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,CalledProcessError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/02_1_Link_Prediction_GraphSAGE_CoraDataset.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/04_1_Graph_Classification_RDKit_GCNN.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,CalledProcessError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/04_3_Graph_Prediction_TransformerConv_Model_ipynb.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,CalledProcessError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/GCNN_Basics/04_ Fake_news_detection.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,ModuleNotFoundError,torch,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/GCNN_Basics/05_Graph_Neural_Networks_MNIST.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,True,HTTPError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/GNN_AnomalyDetection/02_Explainable_Fraud_Detection_Graph.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,ModuleNotFoundError,parfit,True
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/Graph_Neural_Network/Neo4j/01_WebScrapping(MatrixMovie)_Selenium_OCR_Spacy_Neo4j.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,False,TypeError,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-30/executed/Group01_Nanadni_Kajal_Assignment-4/Q7/q7.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-30,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-34/executed/IrisPyCaretDemo.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-34,False,,,False
+hpc/results/study-r2-1-main/task-19/artifacts/run-8/executed/rashtagpy/aula2/Aula 2 - Gabarito.ipynb.gz,hpc/results/study-r2-1-main/task-19/artifacts/run-8,False,ValueError,,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-11/executed/faers/benchmarking_TxGNN_on_NTDs_4th_Biotech_Research.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-11,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-12/executed/Manager.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-12,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-14/executed/ApacheSpark/test-websocket.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-14,False,OSError,,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-36/executed/sources/Day 2 Python demo.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-36,False,SyntaxError,,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-37/executed/Ingenieros/FakeGeneration-Data.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-37,False,,,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-44/executed/AtrCheema-SeqMetrics-8b8316c/tests/reference_for_seqmetric_tests.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-44,False,,,False
+hpc/results/study-r2-1-main/task-2/artifacts/run-50/executed/Final_Solved_Copy_Mahanta_Learner_Notebook_UPDATED.ipynb.gz,hpc/results/study-r2-1-main/task-2/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-14/executed/01_Eigenrecursion_Test.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-14,False,,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-14/executed/03_FINAL_TEST.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-14,False,,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-24/executed/EDA.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-24,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-24/executed/MLExp3.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-24,True,OSError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-33/executed/SocialMediaDataAnalysis.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-33,False,,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-37/executed/kursus/assignment1/assignment_1.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-37,False,NotImplementedError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-37/executed/kursus/assignment1/assignment_1_cbk.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-37,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-37/executed/kursus/module_7_exercises_cbk.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-37,False,FeatureNotFound,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-45/executed/Matplotlib/MATPLOTLIB.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-45,False,,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-45/executed/Numpy/numpy program.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-45,False,ValueError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-45/executed/Pandas/PANDAS.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-45,False,SyntaxError,,False
+hpc/results/study-r2-1-main/task-20/artifacts/run-45/executed/Seaborn/seaborn.ipynb.gz,hpc/results/study-r2-1-main/task-20/artifacts/run-45,False,ValueError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-19/executed/BioInformaticsProject_CTSS.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-19,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-19/executed/BioInformaticsProject_TL.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-19,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-27/executed/minecraft-fortnite-classifier.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-27,False,DDGSException,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-31/executed/Notebooks/Stim_Surface_Code_Memory_Experiment.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-31,False,NameError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-31/executed/Stim_Surface_Code_Memory_Experiment.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-31,False,TypeError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-38/executed/Major Project  2/NMH Python Movie Data-Book API.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-38,False,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP - Generating the XSD from the XML.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP - Third time is the charm.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP -Again - 4.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP v6 - load multiple declarations.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,OSError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP_7_data_exploration_hopefully.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,OSError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP_v10_add_gender_to_stocks.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,ValueError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/HATVP_v11_refactor.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,ValueError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-41/executed/notebooks/hatvp declaration.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-41,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-9/executed/Análisis_Datos_Tésis.ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-9,False,OSError,,False
+hpc/results/study-r2-1-main/task-21/artifacts/run-9/executed/Análisis_de_Datos_(Unified).ipynb.gz,hpc/results/study-r2-1-main/task-21/artifacts/run-9,False,OSError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-16/executed/C2/W4/assignment/C2W4_Assignment.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-16,True,TypeError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-16/executed/C3/W4/assignment/C3W4_Assignment.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-16,False,ValueError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-16/executed/C3/W4/ungraded_labs/C3_W4_Lab_2_irish_lyrics.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-16,False,,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-32/executed/fine-tuning/QA/Machine_reading_comprehension.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-32,False,ImportError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-33/executed/exp/kubeflow/test-bucket-connection.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-33,True,KeyError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-43/executed/lec/lec22/lec22.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-43,False,NoSuchModuleError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-45/executed/talkmap.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-45,False,ConfigurationError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/DREAMBOOTH/Loulou_version_DreamBooth_Stable_Diffusion.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/DREAMBOOTH/Loulou_version_Vast_ai_dreambooth_runpod_joepenna.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,IndexError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/DREAMBOOTH/MVP_Inference_from_Dreambooth_finetuned_model.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/Large_resolution_tests/GoBig_stable_diffusion/loulou_version_of_jquesnelle_txt2imghd.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,ValueError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/SOUND/wav_concat.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,IndexError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/animation_and_frame_extraction/Create_a_gif_from_images.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/animation_and_frame_extraction/FFMPEG_conversion_from_PNG_JPG_to_MP4.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/clip_interrogation/Get_best_matching_male_actor_face_for_a_given_input_picture.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/clip_interrogation/Loulou_version_BatchMode_clip_interrogator.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,models,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/clip_interrogation/separate_framed_and_unframed_paintings_using_CLIP.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,ZeroDivisionError,,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/older_diffusions/Loulou_version_Latent_Diffusion_LAION_400M_model_text_to_image.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/stable_diffusion/Loulou_version_2_BatchMode_image_2_image_using_diffusers.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/stable_diffusion/Loulou_version_2_NSFW_OFF_Stable_Diffusion_with_🧨_diffusers.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/stable_diffusion/Loulou_version_3_UltraBatchMode_image_2_image_using_diffusers.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/stable_diffusion/Loulou_version_de_image_2_image_using_diffusers.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/stable_diffusion/mobile_version_stable_diffusion.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/upscaling_and_restauration/Loulou_version_Face_Restore_GFPGAN_inference.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-22/artifacts/run-51/executed/upscaling_and_restauration/upscale_via_stable_diffusion_x4.ipynb.gz,hpc/results/study-r2-1-main/task-22/artifacts/run-51,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-12/executed/Python_para_Ciencia_de_Dados_Formacao_Basica/arquivos_de_exercicios_python_para_ciencia_dados_basico-1/Cap09/01_Conhecendo_o_Plotly.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-12,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-14/executed/code_02_XX Basic ReAct Agent in LangGraph.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-14,True,APIConnectionError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-16/executed/1. Image Collection.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-16,True,error,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-16/executed/2. Training and Detection.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-16,True,ImportError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-29/executed/chatbot.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-29,True,OSError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-29/executed/chatbot_zh.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-29,False,OSError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-33/executed/BerCovNet.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-33,False,KeyError,,False
+hpc/results/study-r2-1-main/task-23/artifacts/run-37/executed/transcript.ipynb.gz,hpc/results/study-r2-1-main/task-23/artifacts/run-37,False,VideoUnavailable,,False
+hpc/results/study-r2-1-main/task-24/artifacts/run-13/executed/notebooks/basic_template.ipynb.gz,hpc/results/study-r2-1-main/task-24/artifacts/run-13,False,,,False
+hpc/results/study-r2-1-main/task-24/artifacts/run-50/executed/notebooks/train_colab.ipynb.gz,hpc/results/study-r2-1-main/task-24/artifacts/run-50,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-17/executed/gersondekleuver-Fact-4e1f235/fact_p2p_evaluation_final.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-17,True,ModuleNotFoundError,torch,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-27/executed/scripts/Tcells/flow/02_analysis_brain.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-27,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-29/executed/data_analysis/dash/app.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-29,True,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-29/executed/data_analysis/data_analysis.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-29,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-29/executed/data_analysis/initial_analysis/EDA_Stone_24.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-29,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-3/executed/Assignment_2.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-3,True,ModuleNotFoundError,talos,True
+hpc/results/study-r2-1-main/task-25/artifacts/run-3/executed/Assingment_3.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-3,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-39/executed/workflow.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-39,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-25/artifacts/run-48/executed/analyze_stock.ipynb.gz,hpc/results/study-r2-1-main/task-25/artifacts/run-48,True,,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/activities/components/pipelines/legacy-v1/sdk/build-pipeline.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,True,HTTPError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/activities/components/pipelines/legacy-v1/sdk/python-function-components.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,ImportError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/docs/components/pipelines/legacy-v1/sdk/build-pipeline.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,HTTPError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/docs/components/pipelines/legacy-v1/sdk/python-function-components.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,ImportError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/news/components/pipelines/legacy-v1/sdk/build-pipeline.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,HTTPError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/news/components/pipelines/legacy-v1/sdk/python-function-components.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,ImportError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/test/components/pipelines/legacy-v1/sdk/build-pipeline.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,HTTPError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-1/executed/content/en/test/components/pipelines/legacy-v1/sdk/python-function-components.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-1,False,ImportError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-12/executed/Install-notes.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-12,False,,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-34/executed/doog.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-34,True,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-42/executed/webpage/pix2pix/model_colab.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-42,False,Exception,,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-46/executed/Untitled (1).ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-46,False,ModuleNotFoundError,langchain,True
+hpc/results/study-r2-1-main/task-26/artifacts/run-5/executed/quickdraw_train.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-5,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-26/artifacts/run-7/executed/model/train/Train_YOLO_Models.ipynb.gz,hpc/results/study-r2-1-main/task-26/artifacts/run-7,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-18/executed/mediapipe_face_landmarks.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-18,True,ModuleNotFoundError,mediapipe,True
+hpc/results/study-r2-1-main/task-27/artifacts/run-34/executed/Patient re-admission_Predictive_Analytics.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-34,True,ImportError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-34/executed/two_dimesional_linear_regression.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-34,True,HTTPError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-36/executed/phi2_cve_inference_pipeline.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-36,True,ValueError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch02/ch02.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,SyntaxError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch03/ch03.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch04/ch04.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch05/ch05.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch06/ch06.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch07/ch07.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,TypeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch08/ch08.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,InvalidParameterError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch09/ch09.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch10/ch10.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,ModuleNotFoundError,watermark,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch11/ch11.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch12/ch12_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch12/ch12_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,UnpicklingError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch13/ch13_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch13/ch13_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch13/ch13_part3_lightning.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,ValueError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch13/ch13_part4_ignite.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,ModuleNotFoundError,ignite,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch14/ch14_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch14/ch14_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch15/ch15_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch15/ch15_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,OSError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch15/ch15_part3.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch16/ch16-part1-self-attention.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch16/ch16-part2-gpt2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch16/ch16-part3-bert.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,OSError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch17/ch17_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,ModuleNotFoundError,watermark,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch17/ch17_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,ModuleNotFoundError,watermark,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch18/ch18_part1.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-39/executed/ch18/ch18_part2.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-39,False,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-40/executed/nb/Getting_names_and_SMILES_for_the_VHP_compounds.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-40,True,,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-40/executed/nb/Getting_properties_by_SMILES_using_the_VHP4Safety_Compound_Wiki.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-40,True,ExecutableNotFound,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-45/executed/csandberg303-kba-threshold-sensitivity-analysis-140d1e7/final-kba-project-blog-post.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-45,False,DriverError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-45/executed/csandberg303-kba-threshold-sensitivity-analysis-140d1e7/final-project-group-blog-post-natureserve.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-45,False,DriverError,,False
+hpc/results/study-r2-1-main/task-27/artifacts/run-45/executed/csandberg303-kba-threshold-sensitivity-analysis-140d1e7/kba-project-blog-post.ipynb.gz,hpc/results/study-r2-1-main/task-27/artifacts/run-45,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-15/executed/Untitled-1.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-15,False,,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-19/executed/notebooks/Faces_of_europe_House_version.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-19,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-19/executed/notebooks/Faces_of_europe_rest_of_the_batches_version.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-19,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-19/executed/notebooks/faces_of_europe_map.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-19,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-29/executed/talkmap.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-29,False,ConfigurationError,,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-45/executed/RAG_chat_with_youtube_videos.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-45,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-28/artifacts/run-51/executed/airbnb.ipynb.gz,hpc/results/study-r2-1-main/task-28/artifacts/run-51,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-29/artifacts/run-12/executed/Fundaentos mecânica estruturas/Atividade 01/auxiliar_arquivo_de_dados_MAC019.ipynb.gz,hpc/results/study-r2-1-main/task-29/artifacts/run-12,False,,,False
+hpc/results/study-r2-1-main/task-29/artifacts/run-29/executed/LorenzSystemPhaseSpace.py.ipynb.gz,hpc/results/study-r2-1-main/task-29/artifacts/run-29,False,,,False
+hpc/results/study-r2-1-main/task-29/artifacts/run-29/executed/PhaseSpace.py.ipynb.gz,hpc/results/study-r2-1-main/task-29/artifacts/run-29,False,,,False
+hpc/results/study-r2-1-main/task-29/artifacts/run-3/executed/untitled.ipynb.gz,hpc/results/study-r2-1-main/task-29/artifacts/run-3,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-29/artifacts/run-41/executed/Analisis_Sentimen_Traveloka.ipynb.gz,hpc/results/study-r2-1-main/task-29/artifacts/run-41,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-29/executed/talkmap.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-29,False,ConfigurationError,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-38/executed/tutorial.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-38,False,,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-4/executed/51 Basics of Pandas.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-4,False,,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-46/executed/Antioxidant_esm_classification_original.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-46,False,,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-46/executed/redundancy_augmented.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-46,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-46/executed/redundancy_original.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-46,False,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-46/executed/redundancy_testsplit.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-46,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-3/artifacts/run-8/executed/3week_lecture.ipynb.gz,hpc/results/study-r2-1-main/task-3/artifacts/run-8,True,OpenAIError,,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-10/executed/sspr-3.4.0/Notebooks/supernest-demo.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-10,False,ModuleNotFoundError,pypolychord,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-10/executed/sspr-3.4.0/Notebooks/supernest_demo.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-10,False,ModuleNotFoundError,pypolychord,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/QAG_ETL_Add_sentiment_analysis.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/QAG_ETL_Add_sentiment_inference_CamenBERT_Distil.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/QAG_ETL_sentiment_analysis_visualisation.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/gpt2_generation.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,,,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/simple_summarization_pipeline_evaluation.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,,,False
+hpc/results/study-r2-1-main/task-30/artifacts/run-5/executed/summarization_experiment_2_google_pegasus_xsum.ipynb.gz,hpc/results/study-r2-1-main/task-30/artifacts/run-5,False,,,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-16/executed/AI_Powered_Custom_Chatbot_for_PDF.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-16,True,OSError,,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-17/executed/notebooks/Function_calling.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-17,False,ModuleNotFoundError,dotenv,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-39/executed/notebook.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-39,True,ModuleNotFoundError,requests_oauthlib,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-40/executed/Multilingual_QA_with_Cohere_Haystack.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-40,True,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-40/executed/arize_llamaindex.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-40,True,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-40/executed/milvus.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-40,False,TimeoutError,,False
+hpc/results/study-r2-1-main/task-31/artifacts/run-40/executed/voxel51.ipynb.gz,hpc/results/study-r2-1-main/task-31/artifacts/run-40,True,ModuleNotFoundError,fiftyone,True
+hpc/results/study-r2-1-main/task-4/artifacts/run-19/executed/assignment3-2017/RNN_Captioning.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-19,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-19/executed/assignment3-2025/DDPM.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-19,False,AttributeError,,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-30/executed/Ollama.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-30,True,ConnectionError,,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-36/executed/OTT_Comparo.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-36,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-39/executed/EDA/ML_trafic_gare_GitHub.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-39,True,ValueError,,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-48/executed/mistral_7b_finetune.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-48,False,ImportError,,False
+hpc/results/study-r2-1-main/task-4/artifacts/run-9/executed/daclip-faiss-indexer.ipynb.gz,hpc/results/study-r2-1-main/task-4/artifacts/run-9,False,PermissionError,,False
+hpc/results/study-r2-1-main/task-5/artifacts/run-39/executed/data-visualization.ipynb.gz,hpc/results/study-r2-1-main/task-5/artifacts/run-39,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-5/artifacts/run-44/executed/model/legalEase.ipynb.gz,hpc/results/study-r2-1-main/task-5/artifacts/run-44,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-6/artifacts/run-1/executed/notebook/AIB2024_ViT.ipynb.gz,hpc/results/study-r2-1-main/task-6/artifacts/run-1,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-6/artifacts/run-28/executed/ISCB-Academy-ISCB-Academy-Tutorial-Community-Modelling-afa04b8/Graph-based metabolic modelling.ipynb.gz,hpc/results/study-r2-1-main/task-6/artifacts/run-28,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-18/executed/NTURGB-D/CTR-GCN/data_process.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-18,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-18/executed/NTURGB-D/ST-GCN/data_process.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-18,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-18/executed/NW-UCLA/process.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-18,False,,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-18/executed/SHL-2024/data-process.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-18,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-18/executed/env-prepare.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-18,False,,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-22/executed/Home_Sales_starter_code_colab (1).ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-22,False,Exception,,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-6/executed/5.5_ethical_req_multilabel_classifier.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-6,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-7/artifacts/run-6/executed/5.6_final_evaluation.ipynb.gz,hpc/results/study-r2-1-main/task-7/artifacts/run-6,True,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-15/executed/Plant_Leaf_Disease_Prediction.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-15,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-25/executed/DL Competition/fingpt_mod.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-25,True,OSError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-27/executed/notebooks/assignment1.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-27,False,ModuleNotFoundError,matplotlib,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-28/executed/notebooks/03_model_training.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-28,False,PermissionError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-31/executed/industry_project/industry_project.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-31,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-31/executed/market_price_of_a_car/market_price_of_a_car.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-31,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-34/executed/Bias_Correction_2025/bias_correction_colab.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-34,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-34/executed/bias_correction/trash/ipynb_files/cnn_model.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-34,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-34/executed/bias_correction/trash/ipynb_files/monthly_IMD_grib.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-34,False,FileNotFoundError,,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-40/executed/birds3_garden20.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-40,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-41/executed/code/1_self_consistency/multi_llm_consistency_prompting.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-41,False,ModuleNotFoundError,google,False
+hpc/results/study-r2-1-main/task-8/artifacts/run-48/executed/examples/syft_install_quickstart.ipynb.gz,hpc/results/study-r2-1-main/task-8/artifacts/run-48,False,StdinNotImplementedError,,False
+hpc/results/study-r2-1-main/task-9/artifacts/run-10/executed/blood_cell_detection.ipynb.gz,hpc/results/study-r2-1-main/task-9/artifacts/run-10,False,RuntimeError,,False
+hpc/results/study-r2-1-main/task-9/artifacts/run-32/executed/Code/BERT_NLP.ipynb.gz,hpc/results/study-r2-1-main/task-9/artifacts/run-32,False,ValueError,,False
+hpc/results/study-r2-1-main/task-9/artifacts/run-7/executed/GFPGAN_inference.ipynb.gz,hpc/results/study-r2-1-main/task-9/artifacts/run-7,False,,,False
+hpc/results/study-r2-1-main/task-9/artifacts/run-8/executed/stopword_custom.ipynb.gz,hpc/results/study-r2-1-main/task-9/artifacts/run-8,False,DisambiguationError,,False
+hpc/results/study-r2-2-topup3/task-3/artifacts/run-1/executed/Building_Recommender_System_with_Surprise.ipynb.gz,hpc/results/study-r2-2-topup3/task-3/artifacts/run-1,False,ModuleNotFoundError,surprise,False

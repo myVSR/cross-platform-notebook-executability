@@ -1,0 +1,47 @@
+{
+  "created": "2026-10-09T11:28:13+00:00",
+  "passes": [
+    {
+      "index": 1,
+      "kind": "main",
+      "run": "study-1-main",
+      "cohort": "data/sampling/draw/2026-10-09/cohort-primary.csv",
+      "resources": 1500,
+      "tasks": 32,
+      "job": "9164728",
+      "submitted": "2026-10-09T11:28:14+00:00",
+      "evaluated": "2026-10-10T22:01:00+00:00",
+      "topup": 1,
+      "next": "pass 2",
+      "next_kind": "topup1"
+    },
+    {
+      "index": 2,
+      "kind": "topup1",
+      "run": "study-2-topup1",
+      "cohort": "results/study/cohort-pass-2.csv",
+      "resources": 155,
+      "tasks": 32,
+      "job": "9166059",
+      "submitted": "2026-10-10T22:01:00+00:00",
+      "evaluated": "2026-10-11T02:02:53+00:00",
+      "topup": 2,
+      "next": "pass 3",
+      "next_kind": "topup2"
+    },
+    {
+      "index": 3,
+      "kind": "topup2",
+      "run": "study-3-topup2",
+      "cohort": "results/study/cohort-pass-3.csv",
+      "resources": 25,
+      "tasks": 25,
+      "job": "9166105",
+      "submitted": "2026-10-11T02:02:53+00:00",
+      "evaluated": "2026-10-11T03:04:25+00:00",
+      "topup": 3,
+      "next": "complete"
+    }
+  ],
+  "complete": "2026-10-11T03:04:25+00:00"
+}

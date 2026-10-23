@@ -1,0 +1,195 @@
+2026-10-23 16:16:01,139 INFO analysis: output: results/analysis/20261023T141601Z-5c717b6
+2026-10-23 16:16:02,382 INFO analysis: inputs: db results/study-r3/merged.sqlite sha256 24e0e772342feee53c97a8bdb87f3fb669cddf887fe4d5a00542ee26904c8d66; git 5c717b62ed8a6c77d5a84406fee90cb1e8d16a4f (38 dirty files)
+2026-10-23 16:16:02,435 INFO analysis: notebook languages: 6827 notebooks, 195 not Python, 0 rows not in the database
+2026-10-23 16:16:02,546 INFO analysis: draw: 2175 rows; in cohort 1800 (primary 1500, used reserve 300)
+2026-10-23 16:16:03,831 INFO analysis: removed 195 notebooks of other languages
+2026-10-23 16:16:03,837 INFO analysis: resources without a Python notebook (now ineligible): {'codeberg': 38, 'github': 2, 'zenodo': 12}
+2026-10-23 16:16:03,966 INFO analysis: table resources.csv: 1799 rows
+2026-10-23 16:16:03,966 INFO analysis: section cohort ...
+2026-10-23 16:16:03,971 INFO analysis: table cohort_outcomes.csv: 12 rows
+2026-10-23 16:16:03,974 INFO analysis: table cohort_outcomes_by_role.csv: 15 rows
+2026-10-23 16:16:03,978 INFO analysis: table cohort_zenodo_by_stratum_content.csv: 15 rows
+2026-10-23 16:16:03,981 INFO analysis: table infrastructure_failures.csv: 1 rows
+2026-10-23 16:16:03,983 INFO analysis: table pipeline_errors.csv: 3 rows
+2026-10-23 16:16:04,009 INFO analysis: analysable: {'codeberg': 455, 'github': 495, 'zenodo': 386}; notebooks analysed 6607
+2026-10-23 16:16:04,010 INFO analysis: section cohort done in 0.0 s
+2026-10-23 16:16:04,010 INFO analysis: section install_quality ...
+2026-10-23 16:16:04,021 INFO analysis: table install_quality.csv: 3 rows
+2026-10-23 16:16:04,028 INFO analysis: table install_quality_examples.csv: 0 rows
+2026-10-23 16:16:04,028 INFO analysis: section install_quality done in 0.0 s
+2026-10-23 16:16:04,028 INFO analysis: section availability ...
+2026-10-23 16:16:04,063 INFO analysis: table availability.csv: 3 rows
+2026-10-23 16:16:04,064 INFO analysis: table availability_zenodo_strata.csv: 3 rows
+2026-10-23 16:16:04,090 INFO analysis: table eligibility_among_obtainable.csv: 3 rows
+2026-10-23 16:16:04,097 INFO analysis: table eligibility_zenodo_by_content.csv: 5 rows
+2026-10-23 16:16:04,104 INFO analysis: table not_obtainable_reasons.csv: 103 rows
+2026-10-23 16:16:04,106 INFO analysis: section availability done in 0.1 s
+2026-10-23 16:16:04,106 INFO analysis: section primary ...
+2026-10-23 16:16:04,137 INFO analysis: table primary_clean_execution.csv: 6 rows
+2026-10-23 16:16:04,145 INFO analysis: table primary_zenodo_strata_unweighted.csv: 3 rows
+2026-10-23 16:16:04,147 INFO analysis: primary: {'codeberg': 0.2959, 'github': 0.25, 'zenodo': 0.1633}
+2026-10-23 16:16:04,147 INFO analysis: differences: [('codeberg', 'github', 0.0459, 0.0636), ('codeberg', 'zenodo', 0.1325, 0.0), ('github', 'zenodo', 0.0867, 0.0009)]
+2026-10-23 16:16:04,147 INFO analysis: section primary done in 0.0 s
+2026-10-23 16:16:04,147 INFO analysis: section notebook_model ...
+2026-10-23 16:16:04,303 INFO analysis: table notebook_clean_shares.csv: 3 rows
+2026-10-23 16:18:06,134 INFO analysis: table notebook_mixed_model.csv: 3 rows
+2026-10-23 16:18:06,139 INFO analysis: notebook model: ICC 0.602, resource SD 2.232
+2026-10-23 16:18:06,141 INFO analysis: section notebook_model done in 122.0 s
+2026-10-23 16:18:06,142 INFO analysis: section reproduction ...
+2026-10-23 16:18:06,392 INFO analysis: table reproduction.csv: 30 rows
+2026-10-23 16:18:06,411 INFO analysis: table reproduction_notebook_coverage.csv: 3 rows
+2026-10-23 16:18:06,412 INFO analysis: section reproduction done in 0.3 s
+2026-10-23 16:18:06,412 INFO analysis: section failures ...
+2026-10-23 16:18:06,435 INFO analysis: table failure_categories_notebooks.csv: 30 rows
+2026-10-23 16:18:06,697 INFO analysis: table failure_categories_resources.csv: 30 rows
+2026-10-23 16:18:06,703 INFO analysis: table failure_categories_chi2.csv: 3 rows
+2026-10-23 16:18:06,717 INFO analysis: table failure_type_to_context.csv: 9 rows
+2026-10-23 16:18:06,724 INFO analysis: table dependency_causes.csv: 31 rows
+2026-10-23 16:18:06,735 INFO analysis: table dependency_failed_packages.csv: 40 rows
+2026-10-23 16:18:06,741 INFO analysis: table timeouts.csv: 3 rows
+2026-10-23 16:18:06,746 INFO analysis: table analysable_run_status.csv: 3 rows
+2026-10-23 16:18:06,749 INFO analysis: failures: 4674 failing notebooks; top DEPENDENCY_ERROR
+2026-10-23 16:18:06,750 INFO analysis: section failures done in 0.3 s
+2026-10-23 16:18:06,750 INFO analysis: section models ...
+2026-10-23 16:18:06,767 INFO analysis: models: 1336 analysable resources, 1330 complete cases (dropped 6 without readiness scores or covariates)
+2026-10-23 16:18:07,287 INFO analysis: table model_coefficients.csv: 75 rows
+2026-10-23 16:18:29,258 INFO analysis: table model_summary.csv: 6 rows
+2026-10-23 16:18:29,260 INFO analysis: table model_r2_increments.csv: 5 rows
+2026-10-23 16:18:29,261 INFO analysis: section models done in 22.5 s
+2026-10-23 16:18:29,261 INFO analysis: section readiness ...
+2026-10-23 16:18:29,471 INFO analysis: table readiness_correlations.csv: 92 rows
+2026-10-23 16:18:29,548 INFO analysis: table readiness_means.csv: 9 rows
+2026-10-23 16:18:29,557 INFO analysis: section readiness done in 0.3 s
+2026-10-23 16:18:29,557 INFO analysis: section licences ...
+2026-10-23 16:18:29,638 INFO analysis: table licences.csv: 9 rows
+2026-10-23 16:18:29,652 INFO analysis: table licences_agreement.csv: 3 rows
+2026-10-23 16:18:29,658 INFO analysis: table licences_top.csv: 28 rows
+2026-10-23 16:18:29,659 INFO analysis: section licences done in 0.1 s
+2026-10-23 16:18:29,659 INFO analysis: section sensitivity ...
+2026-10-23 16:18:31,131 INFO analysis: draw: 1980 rows; in cohort 1670 (primary 1500, used reserve 170)
+2026-10-23 16:18:32,272 INFO analysis: removed 176 notebooks of other languages
+2026-10-23 16:18:32,277 INFO analysis: resources without a Python notebook (now ineligible): {'codeberg': 38, 'github': 2, 'zenodo': 11}
+2026-10-23 16:18:32,424 INFO analysis: draw: 2175 rows; in cohort 1800 (primary 1500, used reserve 300)
+2026-10-23 16:18:33,749 INFO analysis: table sensitivity.csv: 90 rows
+2026-10-23 16:18:33,751 INFO analysis: table sensitivity_shifts.csv: 42 rows
+2026-10-23 16:18:33,755 INFO analysis: section sensitivity done in 4.1 s
+2026-10-23 16:18:33,755 INFO analysis: section duplicates ...
+2026-10-23 16:18:33,780 INFO analysis: table duplicates.csv: 3 rows
+2026-10-23 16:18:33,781 INFO analysis: section duplicates done in 0.0 s
+2026-10-23 16:18:33,781 INFO analysis: section figures ...
+2026-10-23 16:18:33,945 INFO analysis: table figure_outcomes.csv: 21 rows
+2026-10-23 16:18:34,623 INFO fontTools.subset: maxp pruned
+2026-10-23 16:18:34,630 INFO fontTools.subset: cmap pruned
+2026-10-23 16:18:34,631 INFO fontTools.subset: kern dropped
+2026-10-23 16:18:34,631 INFO fontTools.subset: post pruned
+2026-10-23 16:18:34,631 INFO fontTools.subset: FFTM dropped
+2026-10-23 16:18:34,632 INFO fontTools.subset: GPOS pruned
+2026-10-23 16:18:34,633 INFO fontTools.subset: GSUB pruned
+2026-10-23 16:18:34,636 INFO fontTools.subset: glyf pruned
+2026-10-23 16:18:34,637 INFO fontTools.subset: Added gid0 to subset
+2026-10-23 16:18:34,637 INFO fontTools.subset: Added first four glyphs to subset
+2026-10-23 16:18:34,637 INFO fontTools.subset: Closing glyph list over 'MATH': 41 glyphs before
+2026-10-23 16:18:34,637 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'five', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'y', 'zero']
+2026-10-23 16:18:34,638 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92]
+2026-10-23 16:18:34,638 INFO fontTools.subset: Closed glyph list over 'MATH': 47 glyphs after
+2026-10-23 16:18:34,638 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'five', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'uni239B', 'uni239C', 'uni239D', 'uni239E', 'uni239F', 'uni23A0', 'y', 'zero']
+2026-10-23 16:18:34,638 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92, 2357, 2358, 2359, 2360, 2361, 2362]
+2026-10-23 16:18:34,638 INFO fontTools.subset: Closing glyph list over 'GSUB': 47 glyphs before
+2026-10-23 16:18:34,638 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'five', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'uni239B', 'uni239C', 'uni239D', 'uni239E', 'uni239F', 'uni23A0', 'y', 'zero']
+2026-10-23 16:18:34,639 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92, 2357, 2358, 2359, 2360, 2361, 2362]
+2026-10-23 16:18:34,640 INFO fontTools.subset: Closed glyph list over 'GSUB': 52 glyphs after
+2026-10-23 16:18:34,640 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'fi', 'five', 'fl', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'uni239B', 'uni239C', 'uni239D', 'uni239E', 'uni239F', 'uni23A0', 'uniFB00', 'uniFB03', 'uniFB04', 'y', 'zero']
+2026-10-23 16:18:34,641 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92, 2357, 2358, 2359, 2360, 2361, 2362, 3311, 3312, 3313, 3314, 3315]
+2026-10-23 16:18:34,641 INFO fontTools.subset: Closing glyph list over 'glyf': 52 glyphs before
+2026-10-23 16:18:34,641 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'fi', 'five', 'fl', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'uni239B', 'uni239C', 'uni239D', 'uni239E', 'uni239F', 'uni23A0', 'uniFB00', 'uniFB03', 'uniFB04', 'y', 'zero']
+2026-10-23 16:18:34,641 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92, 2357, 2358, 2359, 2360, 2361, 2362, 3311, 3312, 3313, 3314, 3315]
+2026-10-23 16:18:34,641 INFO fontTools.subset: Closed glyph list over 'glyf': 52 glyphs after
+2026-10-23 16:18:34,641 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'A', 'C', 'G', 'H', 'R', 'Z', 'a', 'b', 'c', 'd', 'e', 'eight', 'f', 'fi', 'five', 'fl', 'four', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'nine', 'nonmarkingreturn', 'o', 'one', 'p', 'parenleft', 'parenright', 'r', 's', 'seven', 'six', 'space', 't', 'two', 'u', 'uni239B', 'uni239C', 'uni239D', 'uni239E', 'uni239F', 'uni23A0', 'uniFB00', 'uniFB03', 'uniFB04', 'y', 'zero']
+2026-10-23 16:18:34,641 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 11, 12, 19, 20, 21, 23, 24, 25, 26, 27, 28, 36, 38, 42, 43, 53, 61, 68, 69, 70, 71, 72, 73, 74, 75, 76, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 92, 2357, 2358, 2359, 2360, 2361, 2362, 3311, 3312, 3313, 3314, 3315]
+2026-10-23 16:18:34,641 INFO fontTools.subset: Retaining 52 glyphs
+2026-10-23 16:18:34,642 INFO fontTools.subset: head subsetting not needed
+2026-10-23 16:18:34,642 INFO fontTools.subset: hhea subsetting not needed
+2026-10-23 16:18:34,642 INFO fontTools.subset: maxp subsetting not needed
+2026-10-23 16:18:34,642 INFO fontTools.subset: OS/2 subsetting not needed
+2026-10-23 16:18:34,644 INFO fontTools.subset: hmtx subsetted
+2026-10-23 16:18:34,645 INFO fontTools.subset: cmap subsetted
+2026-10-23 16:18:34,645 INFO fontTools.subset: fpgm subsetting not needed
+2026-10-23 16:18:34,645 INFO fontTools.subset: prep subsetting not needed
+2026-10-23 16:18:34,645 INFO fontTools.subset: cvt  subsetting not needed
+2026-10-23 16:18:34,645 INFO fontTools.subset: loca subsetting not needed
+2026-10-23 16:18:34,645 INFO fontTools.subset: post subsetted
+2026-10-23 16:18:34,645 INFO fontTools.subset: gasp subsetting not needed
+2026-10-23 16:18:34,645 INFO fontTools.subset: MATH subsetted
+2026-10-23 16:18:34,646 INFO fontTools.subset: GDEF subsetted
+2026-10-23 16:18:34,652 INFO fontTools.subset: GPOS subsetted
+2026-10-23 16:18:34,653 INFO fontTools.subset: GSUB subsetted
+2026-10-23 16:18:34,654 INFO fontTools.subset: name subsetting not needed
+2026-10-23 16:18:34,654 INFO fontTools.subset: glyf subsetted
+2026-10-23 16:18:34,655 INFO fontTools.subset: head pruned
+2026-10-23 16:18:34,655 INFO fontTools.subset: OS/2 Unicode ranges pruned: [0]
+2026-10-23 16:18:34,655 INFO fontTools.subset: OS/2 CodePage ranges pruned: [0]
+2026-10-23 16:18:34,656 INFO fontTools.subset: glyf pruned
+2026-10-23 16:18:34,656 INFO fontTools.subset: GDEF pruned
+2026-10-23 16:18:34,656 INFO fontTools.subset: GPOS pruned
+2026-10-23 16:18:34,656 INFO fontTools.subset: GSUB pruned
+2026-10-23 16:18:34,661 INFO fontTools.subset: name pruned
+2026-10-23 16:18:34,670 INFO fontTools.subset: maxp pruned
+2026-10-23 16:18:34,675 INFO fontTools.subset: cmap pruned
+2026-10-23 16:18:34,675 INFO fontTools.subset: kern dropped
+2026-10-23 16:18:34,675 INFO fontTools.subset: post pruned
+2026-10-23 16:18:34,675 INFO fontTools.subset: FFTM dropped
+2026-10-23 16:18:34,676 INFO fontTools.subset: GPOS pruned
+2026-10-23 16:18:34,677 INFO fontTools.subset: GSUB pruned
+2026-10-23 16:18:34,679 INFO fontTools.subset: glyf pruned
+2026-10-23 16:18:34,680 INFO fontTools.subset: Added gid0 to subset
+2026-10-23 16:18:34,680 INFO fontTools.subset: Added first four glyphs to subset
+2026-10-23 16:18:34,680 INFO fontTools.subset: Closing glyph list over 'MATH': 5 glyphs before
+2026-10-23 16:18:34,680 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,680 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,681 INFO fontTools.subset: Closed glyph list over 'MATH': 5 glyphs after
+2026-10-23 16:18:34,681 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,681 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,681 INFO fontTools.subset: Closing glyph list over 'GSUB': 5 glyphs before
+2026-10-23 16:18:34,681 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,681 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,682 INFO fontTools.subset: Closed glyph list over 'GSUB': 5 glyphs after
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,682 INFO fontTools.subset: Closing glyph list over 'glyf': 5 glyphs before
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,682 INFO fontTools.subset: Closed glyph list over 'glyf': 5 glyphs after
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph names: ['.notdef', '.null', 'nonmarkingreturn', 'space', 'uniFB00']
+2026-10-23 16:18:34,682 INFO fontTools.subset: Glyph IDs:   [0, 1, 2, 3, 3311]
+2026-10-23 16:18:34,683 INFO fontTools.subset: Retaining 5 glyphs
+2026-10-23 16:18:34,683 INFO fontTools.subset: head subsetting not needed
+2026-10-23 16:18:34,683 INFO fontTools.subset: hhea subsetting not needed
+2026-10-23 16:18:34,683 INFO fontTools.subset: maxp subsetting not needed
+2026-10-23 16:18:34,683 INFO fontTools.subset: OS/2 subsetting not needed
+2026-10-23 16:18:34,685 INFO fontTools.subset: hmtx subsetted
+2026-10-23 16:18:34,686 INFO fontTools.subset: cmap subsetted
+2026-10-23 16:18:34,686 INFO fontTools.subset: fpgm subsetting not needed
+2026-10-23 16:18:34,686 INFO fontTools.subset: prep subsetting not needed
+2026-10-23 16:18:34,686 INFO fontTools.subset: cvt  subsetting not needed
+2026-10-23 16:18:34,686 INFO fontTools.subset: loca subsetting not needed
+2026-10-23 16:18:34,686 INFO fontTools.subset: post subsetted
+2026-10-23 16:18:34,686 INFO fontTools.subset: gasp subsetting not needed
+2026-10-23 16:18:34,686 INFO fontTools.subset: MATH subsetted
+2026-10-23 16:18:34,687 INFO fontTools.subset: GDEF subsetted
+2026-10-23 16:18:34,692 INFO fontTools.subset: GPOS subsetted
+2026-10-23 16:18:34,693 INFO fontTools.subset: GSUB subsetted
+2026-10-23 16:18:34,693 INFO fontTools.subset: name subsetting not needed
+2026-10-23 16:18:34,693 INFO fontTools.subset: glyf subsetted
+2026-10-23 16:18:34,694 INFO fontTools.subset: head pruned
+2026-10-23 16:18:34,694 INFO fontTools.subset: OS/2 Unicode ranges pruned: [62]
+2026-10-23 16:18:34,694 INFO fontTools.subset: OS/2 CodePage ranges pruned: [0]
+2026-10-23 16:18:34,694 INFO fontTools.subset: glyf pruned
+2026-10-23 16:18:34,694 INFO fontTools.subset: GDEF pruned
+2026-10-23 16:18:34,695 INFO fontTools.subset: GPOS pruned
+2026-10-23 16:18:34,695 INFO fontTools.subset: GSUB pruned
+2026-10-23 16:18:34,696 INFO fontTools.subset: name pruned
+2026-10-23 16:18:34,888 INFO analysis: section figures done in 1.1 s
+2026-10-23 16:18:34,906 INFO analysis: paper macros: paper/msr2027/results/study.json (304)
+2026-10-23 16:18:34,907 INFO analysis: paper table: paper/msr2027/tab-sensitivity.tex
+2026-10-23 16:18:34,907 INFO analysis: paper figure: paper/msr2027/fig-outcomes.pdf
+2026-10-23 16:18:34,908 INFO analysis: finished in 153.8 s; failed sections: none

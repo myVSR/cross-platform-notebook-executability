@@ -1,0 +1,415 @@
+{
+ "analysis": "cross-platform study, pre-specified analysis (notes/analysis-plan.md)",
+ "started_at": "2026-10-23T14:16:01+00:00",
+ "command": [
+  "/home/user/notebook-study/analysis/paper/.venv/bin/python",
+  "analysis/paper/run_analysis.py",
+  "--db",
+  "results/study-r3/merged.sqlite",
+  "--draw-dir",
+  "data/sampling/draw/2026-10-09-r3",
+  "--infrastructure",
+  "analysis/paper/infrastructure-failures-r3.csv",
+  "--previous-db",
+  "results/study-r2/merged.sqlite",
+  "--previous-draw-dir",
+  "data/sampling/draw/2026-10-09-r2",
+  "--previous-infrastructure",
+  "analysis/paper/infrastructure-failures-r2.csv",
+  "--notebook-languages",
+  "analysis/paper/notebook-languages-r3.csv"
+ ],
+ "git": {
+  "commit": "5c717b62ed8a6c77d5a84406fee90cb1e8d16a4f",
+  "branch": "master",
+  "dirty_files": 38,
+  "dirty_relevant": []
+ },
+ "scripts": {
+  "analysis/paper/run_analysis.py": "9dd995fa831089ccbf80c9851febcef8289216b624fc66fc91d205a052bfb2ce",
+  "analysis/paper/estimators.py": "6f5ee3fabf934646fea020bf920c68d47144180c570ba97d8b0c76c145e6ba91"
+ },
+ "python": {
+  "version": "3.12.3 | packaged by Anaconda, Inc. | (main, May  6 2024, 19:46:43) [GCC 11.2.0]",
+  "executable": "/home/user/notebook-study/analysis/paper/.venv/bin/python",
+  "packages": {
+   "numpy": "2.5.4",
+   "pandas": "3.0.6",
+   "scipy": "1.18.1",
+   "statsmodels": "0.15.0",
+   "patsy": "1.0.3",
+   "matplotlib": "3.11.2"
+  }
+ },
+ "host": {
+  "hostname": "banana",
+  "platform": "Linux-7.0.0-34-generic-x86_64-with-glibc2.39",
+  "machine": "x86_64",
+  "cpus": 12,
+  "user": "user"
+ },
+ "parameters": {
+  "infrastructure_list": "analysis/paper/infrastructure-failures-r3.csv",
+  "notebook_languages": "analysis/paper/notebook-languages-r3.csv",
+  "seed": 20261011,
+  "bootstrap": 2000,
+  "model_bootstrap": 500,
+  "only_present": false,
+  "codeberg_fpc": true,
+  "alpha": 0.05,
+  "multiplicity": "Holm (3)",
+  "target_per_platform": 400
+ },
+ "inputs": {
+  "results/study-r3/merged.sqlite": {
+   "sha256": "24e0e772342feee53c97a8bdb87f3fb669cddf887fe4d5a00542ee26904c8d66",
+   "bytes": 1059217408
+  },
+  "data/sampling/draw/2026-10-09-r3/RERUN.md": {
+   "sha256": "3be96b9290f5c9553885efe7fd0588a99ca739442e13f7265598292875f28af8",
+   "bytes": 1763
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-all.csv": {
+   "sha256": "eb979f36924aa9ea865c05a5bcd3ce3caee343c11ceeea1ad773ba5faf821ca8",
+   "bytes": 110779
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-primary.csv": {
+   "sha256": "37d69f645f6c92c03b1426b7fc50e7cc8712b10a6ffc8bccfc237ddd242379d5",
+   "bytes": 101146
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-primary.csv.sha256": {
+   "sha256": "b5c02adf5f066b40aa084040be16f720f244f7bad13f0ec1ecae9b2c2b083c17",
+   "bytes": 85
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-rerun-3.csv": {
+   "sha256": "ffd5d4ee677e70cce1b6e36bfe74914cc306c969a61c2e5a78ddf791c1028996",
+   "bytes": 1763
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-rerun-4.csv": {
+   "sha256": "f973b661c3fcf717828986cb63a36a41aae172ed551d87e28cb78b821934f0a3",
+   "bytes": 255
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-rerun-5.csv": {
+   "sha256": "6f160c7c97cbcccde872afb6806c1e860e3859cd0fa50da0110d37857bc6bc8e",
+   "bytes": 250
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-reserve.csv": {
+   "sha256": "b03c15dd3a74da948599460d5e24a85e26a82fb94e835ee6554b934bd316e841",
+   "bytes": 42458
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-reserve.csv.sha256": {
+   "sha256": "bb492ead48af859d6ff326b86e6d5323a40cc6fddbc8a28d65c9244d2710fd6c",
+   "bytes": 85
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-10.csv": {
+   "sha256": "d1b22bb9129e190a3204fcb0dd9473cf13ea2bddc330a628c2278f7e21d3adc4",
+   "bytes": 191
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-11.csv": {
+   "sha256": "7c7cf821fb9cea3157086c6dfb2ea35194d269ae1e312910b070912821b81801",
+   "bytes": 136
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-12.csv": {
+   "sha256": "8cf64df004f06007e7eb31d614b5c3b693c4b167d741f7b08abea35b05c6554f",
+   "bytes": 79
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-13.csv": {
+   "sha256": "784a698734cf68945bb4b90bcb83034aedc0446b4dac58931f1917cf04e2fd75",
+   "bytes": 78
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-14.csv": {
+   "sha256": "3797c25a3ca098b51dd0951cd9741f654b3bb24a6481e227cf7072517e126b9b",
+   "bytes": 80
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-15.csv": {
+   "sha256": "69c004af5ae108b230940f77b02e50b7b680038dce1273398adef718f19afdfb",
+   "bytes": 79
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-16.csv": {
+   "sha256": "67ce4ba94cfee5ef00b7e8f8ab3ba030e3fb203f9796d9b043b95c8d0048301d",
+   "bytes": 80
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-17.csv": {
+   "sha256": "f91e9b495c04d2ffe1dbebf9ad70a6f659a43d2305347520ab101cf699e54b19",
+   "bytes": 79
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-18.csv": {
+   "sha256": "3e25906b3c1282ad09daf8bff6ee236931eaaaefc52680eeb81365d937233405",
+   "bytes": 78
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-19.csv": {
+   "sha256": "03b914a204a8c5c7c935a44b40e60cd8e584195d2c43d46435db975e2c14b71c",
+   "bytes": 80
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-3.csv": {
+   "sha256": "5ad3f25994afce4fe333a8e112a5a28fca8b37689e3fd83b7aaaf702f9fb4853",
+   "bytes": 2002
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-4.csv": {
+   "sha256": "d45da726d7342885bd7e85de170d7fabc795bf5eea213b6f99fcfad7e9f178df",
+   "bytes": 1662
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-5.csv": {
+   "sha256": "9ef3d9a6db7fd5d564fed266e9ae989ae3ec40057286425b4e8a50655f7219be",
+   "bytes": 1096
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-6.csv": {
+   "sha256": "19b7bd47578b35319e871e06c39f42a935c2255cde548e2a608a8483ca2b5e0c",
+   "bytes": 702
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-7.csv": {
+   "sha256": "5be0020d10e6d3bc64fd85df91ac748b6f3c0051a479d718a6f98f71ddd395d9",
+   "bytes": 589
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-8.csv": {
+   "sha256": "431b3fdb084915e52817f709152b37c10fb430dee249e6234ae5e5ce5903df81",
+   "bytes": 475
+  },
+  "data/sampling/draw/2026-10-09-r3/cohort-topup-9.csv": {
+   "sha256": "4981a251e12354e4d825bf0f8bfc51bc1ef4f88978115e5da9dd1bf6afdcd028",
+   "bytes": 249
+  },
+  "data/sampling/draw/2026-10-09-r3/draw.csv": {
+   "sha256": "1a881365f3363c18cbf195fa56f3b95c22451f7db8350720e720447a205f7d4f",
+   "bytes": 411346
+  },
+  "data/sampling/draw/2026-10-09-r3/draw.csv.sha256": {
+   "sha256": "87bfa87b17fa5273af20730b65a4900c62e7887803e157fc5369611ef817518f",
+   "bytes": 75
+  },
+  "data/sampling/draw/2026-10-09-r3/summary.json": {
+   "sha256": "30bc1ac23184cc8694f32706e972b67c02cf9791874a0b575a64a41d7ecfceac",
+   "bytes": 8334
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-10-summary.json": {
+   "sha256": "1d059e734e0b32f0be6513a5eeaae1835b9a1f010dd428b10556e2ddf956d183",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-11-summary.json": {
+   "sha256": "fec96bb986517e15e09f79ac9c08ebdf846fcb44f54d427a786e94fed2b9b8ac",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-12-summary.json": {
+   "sha256": "68491d80b368cceb592a3d7e37a21bec1e2598bf68dd5e4e984260819e16053b",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-13-summary.json": {
+   "sha256": "49ba6007e6ee788c38dde50bc6eef03456f052fb539e1a9c2602e9a5c8066935",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-14-summary.json": {
+   "sha256": "6ea5ba9cec2a28c52d642bbddbd68bb00c0b9f058e9164d22f243cdbff35ba37",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-15-summary.json": {
+   "sha256": "d92fcb878e7eb3693216d49e39e4e4250e0305c39b4e09aaf002b87b459d6f98",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-16-summary.json": {
+   "sha256": "9789b76196e6c2bceb77a77ac0785e4741a96b3ed346e3fc95cb6eef79e756e8",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-17-summary.json": {
+   "sha256": "bc1af88c959c72cc93c1b2907d2c50018e33d65f2136753a1869dba77c4e08bb",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-18-summary.json": {
+   "sha256": "4caa2c9c273026c58a41df20b6aec6088028d6eccf213d93f5d0dec9b399107a",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-19-summary.json": {
+   "sha256": "4724c8773e1c88c973036f47861968492be4a89d571a9519d0f058267880c210",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-20-summary.json": {
+   "sha256": "9ece77c2ea71bfd6b92b483194ada7142c270a645e16ec37c4cc4c21328198b2",
+   "bytes": 1055
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-3-summary.json": {
+   "sha256": "ec2619a0edcb67500c4bc924231d89692d2b32f55f65c4c8ad01ce68f378d098",
+   "bytes": 1156
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-4-summary.json": {
+   "sha256": "d5b0295edc9634852901d341af7da6533c86947ca8e1161f1f9105f8445a9da6",
+   "bytes": 1089
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-5-summary.json": {
+   "sha256": "6845087d27cdab564547dc6f88e5064cacf7ecd7bd8c3be3574f60c8d5ba441f",
+   "bytes": 1089
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-6-summary.json": {
+   "sha256": "633b708a3af1fccd991f76fcf778bcc62b6dfb49e9db6dbf4c5ad0fdd3442a09",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-7-summary.json": {
+   "sha256": "34b75e0b0ca804775d1f4665ffe66293b214bcba65332b6b341b8cc4258c76fb",
+   "bytes": 1072
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-8-summary.json": {
+   "sha256": "a339897a2e9e183a0864d9066baad9a4e80c4b327ead2f6a6e38dc127f543f3a",
+   "bytes": 1069
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-9-summary.json": {
+   "sha256": "283f3622dea35ee8a9143ce032c9a3dd7c03db6e554969c59b09b0062f070a6d",
+   "bytes": 1069
+  },
+  "data/sampling/draw/2026-10-09-r3/topup-log.csv": {
+   "sha256": "92c568debe178786c30120ba90000fbf15c12f74c78949b83728ed2eae572924",
+   "bytes": 57803
+  },
+  "data/sampling/draw/2026-10-09-r3/zenodo-versions-extension-1-requests.jsonl": {
+   "sha256": "6678a85f3c2aea9264bd656557a90d9bebf762ddce7f3910a57e0a3a367401d0",
+   "bytes": 94240
+  },
+  "notes/analysis-plan.md": {
+   "sha256": "ffe464cf167d36200dc3b481c1aacacba26d25d8ab67f19f2a10d198d9e3e73a",
+   "bytes": 11776,
+   "last_commit": "aa3e71a69498f03ade6e469bc5c9684f6fd166e6 2026-10-21T12:33:46+02:00",
+   "dirty": false
+  },
+  "notes/sampling-design.md": {
+   "sha256": "c28d825289dd0781c9f21ced890f3734981d4b80c8093f4c3f687cc5327fab89",
+   "bytes": 24088,
+   "last_commit": "7a2a755ca5f0ed15dc7fd0dc7e71a9fcb2b34ecb 2026-10-09T00:59:37+02:00",
+   "dirty": false
+  },
+  "analysis/paper/infrastructure-failures.csv": {
+   "sha256": "620ef8e4223987d5aea9b8c57a42c9bcfa8532519e08b2d4917f0c55b530a059",
+   "bytes": 1778,
+   "last_commit": "ab6cc35a1b5b210563bc88bee8239e317978b981 2026-10-11T07:37:20+02:00",
+   "dirty": false
+  },
+  "analysis/paper/requirements.txt": {
+   "sha256": "710fa921dc99efb55b78f1e7f1b7c9872b213609c98a270411d36c5a2beaa72a",
+   "bytes": 1177,
+   "last_commit": "fb65f8c5fe8e0f7f1f054ef76aef7f535b586524 2026-10-11T11:10:43+02:00",
+   "dirty": false
+  },
+  "pipeline/topup_from_reserve.py": {
+   "sha256": "f66edca11affdc70b85a694e7c4df158adb620c12646dffdd972b23296ffa37f",
+   "bytes": 11504,
+   "last_commit": "aa3e71a69498f03ade6e469bc5c9684f6fd166e6 2026-10-21T12:33:46+02:00",
+   "dirty": false
+  },
+  "analysis/paper/make_numbers.py": {
+   "sha256": "ab8574cddfd5334d5c5cee111b6f657e4ca49cf14acf7aec6f8e902c2114bd6a",
+   "bytes": 10767,
+   "last_commit": "11fcc829c16b8c03bada0b38c1454093da232c47 2026-10-11T09:30:40+02:00",
+   "dirty": false
+  },
+  "analysis/paper/infrastructure-failures-r3.csv": {
+   "sha256": "1485878d2d74ec6e3910ecbdaa6cc478b3a185117f81ab6c9cd66b5133be148c"
+  },
+  "analysis/paper/notebook-languages-r3.csv": {
+   "sha256": "b07cbcbfedf05c2442aeae95e700bb1e3f9211f4436f29cc98c7cc5c5a6169f7"
+  },
+  "results/study-r3/state.json": {
+   "sha256": "325f503e5684b184a70ea04da0b14c9a0e97dc6adc5282e1e8e6605c8ee94814",
+   "bytes": 6893
+  }
+ },
+ "pipeline": {
+  "study_created": "2026-10-21T13:26:22+00:00",
+  "study_complete": "2026-10-23T07:13:29+00:00",
+  "passes": 18
+ },
+ "pipeline_sessions": [
+  {
+   "pipeline_commit": null,
+   "pipeline_dirty": 0,
+   "sessions": 166,
+   "first": "2026-10-21T13:27:01+00:00",
+   "last": "2026-10-23T06:41:21+00:00"
+  }
+ ],
+ "merge": {
+  "sources": 166,
+  "first": "2026-10-23T07:11:13+00:00",
+  "last": "2026-10-23T07:13:06+00:00"
+ },
+ "deviations_from_plan": [
+  "Population (decision 2026-10-23): the pipeline registered every .ipynb as a Python notebook (src/repo.sh) and ran it with a Python kernel. --notebook-languages gives each original notebook's kernel language (read from its metadata, analysis/paper/notebook_languages.py); notebooks of other languages are removed, as the plan defines Y_r over Python notebooks, and a resource left without a Python notebook is ineligible (no replacement: domain estimation). Notebooks without language metadata stay in, as before.",
+  "S3: the \"archived\" covariate is not recorded for all platforms (no Zenodo equivalent); it is left out.",
+  "S1: the mixed model is fitted unweighted (variational Bayes, statsmodels BinomialBayesMixedGLM); the design-based platform estimates are the primary ones.",
+  "S3/RQ4: the pooled fractional logit uses Zenodo weights normalised to mean 1 within the platform, so each platform contributes its sample size; it describes associations in the sample, not population effects.",
+  "S4: chi-square tests use notebook counts and ignore the clustering in resources (descriptive only).",
+  "Section 7: resources whose results were damaged by the infrastructure or the pipeline, not by the resource, are listed in --infrastructure, excluded from the primary analysis and included as recorded in sensitivity 8. Round 1 (decision 2026-10-11): 8 resources hit by the full node-local /tmp (infrastructure-failures.csv). Round 2 (decision 2026-10-20): 8 resources (infrastructure-failures-r2.csv): 5 hit by a full node-local /tmp during the run, 1 whose output comparison failed (pipeline Python could not import attrs), 2 pipeline path bugs.",
+  "Y_r: Python notebooks of an analysable resource without an execution record count as not clean (sensitivity: excluded)."
+ ],
+ "finished_at": "2026-10-23T14:18:34+00:00",
+ "seconds": 153.8,
+ "timings": {
+  "load": 1.53,
+  "cohort": 0.04,
+  "install_quality": 0.02,
+  "availability": 0.08,
+  "primary": 0.04,
+  "notebook_model": 121.99,
+  "reproduction": 0.27,
+  "failures": 0.34,
+  "models": 22.51,
+  "readiness": 0.3,
+  "licences": 0.1,
+  "sensitivity": 4.1,
+  "duplicates": 0.03,
+  "figures": 1.11
+ },
+ "failed_sections": {},
+ "macros": 304,
+ "outputs": {
+  "results/analysis/20261023T141601Z-5c717b6/figures/fig-outcomes.pdf": "bc04943526a4111da7ed2e3a77dc1b0c70510733d0356c8ab2fc2fc5403603c3",
+  "results/analysis/20261023T141601Z-5c717b6/figures/fig-outcomes.png": "2927071e80db294e6332132d8d013c170252cfd2a4ff8955829179deae6e727f",
+  "results/analysis/20261023T141601Z-5c717b6/macros.json": "75c052606afe6b699bd3f9cbc44c6f777ad3c1e3823ca6079d1e51be31478df1",
+  "results/analysis/20261023T141601Z-5c717b6/results.json": "c7039e7052014cc58635c4186aac3513e858d6ee75db87ff5c7e1370d00747d4",
+  "results/analysis/20261023T141601Z-5c717b6/tables/analysable_run_status.csv": "c7225a3d81301bd1ca600bd2075867d67439cb377b61f38bda9cfc0562c82c06",
+  "results/analysis/20261023T141601Z-5c717b6/tables/availability.csv": "e82b693e096e4ddd5a0383724eab340e9caa97670cbee681ccf7d065bc76ee7c",
+  "results/analysis/20261023T141601Z-5c717b6/tables/availability_zenodo_strata.csv": "d52f7b8c8f5271e363eb39b3e013fa4c0765471fd37fb67963e5b771e5a4a14f",
+  "results/analysis/20261023T141601Z-5c717b6/tables/cohort_outcomes.csv": "32afe9c551c515b8d45cf37f729fa00466110d4a323d8927c244bd2857578df9",
+  "results/analysis/20261023T141601Z-5c717b6/tables/cohort_outcomes_by_role.csv": "c182d1c0fc4a8066f4a5d7ac1a87baabf8a8f773a943b01b90eda6afb83dd99b",
+  "results/analysis/20261023T141601Z-5c717b6/tables/cohort_zenodo_by_stratum_content.csv": "c72fcde06d455d2b60c053d524c1865b9f52efee5d1262f3a885f77d25189b17",
+  "results/analysis/20261023T141601Z-5c717b6/tables/dependency_causes.csv": "e1ba9905e2c64938e54463c1d914794de2e4d8fdc7ccb66b13fceffda688604f",
+  "results/analysis/20261023T141601Z-5c717b6/tables/dependency_failed_packages.csv": "685d840307c95a3a1477b96b5a47d08ace9871c516f7f2cb7cddcaf0532e3bbd",
+  "results/analysis/20261023T141601Z-5c717b6/tables/duplicates.csv": "e0e2aca9f23364c4c343cde1efad23d799ea34a65385c499bfb268dfcdca5124",
+  "results/analysis/20261023T141601Z-5c717b6/tables/eligibility_among_obtainable.csv": "773e626772e150c6b8a14130bc28558afb896116d40e496933b227d8f5810c7d",
+  "results/analysis/20261023T141601Z-5c717b6/tables/eligibility_zenodo_by_content.csv": "a2f04ddc4f5f43cc4fe1a2a1c32d2d6800c4d679b870d8243933b73d25ff0307",
+  "results/analysis/20261023T141601Z-5c717b6/tables/failure_categories_chi2.csv": "1e72d1d47a33870e706ce82885fdb20e900fc5f2830183f00b7556a1c78cc713",
+  "results/analysis/20261023T141601Z-5c717b6/tables/failure_categories_notebooks.csv": "025c80ddbbeef1ff6899a2e1a8d3b73bbdd4f942b8bf1ce79480095bd672a360",
+  "results/analysis/20261023T141601Z-5c717b6/tables/failure_categories_resources.csv": "a93d83a6cf9209c4e6415ed09240bfc6335ff97ca43101f8696f8a551641e9c9",
+  "results/analysis/20261023T141601Z-5c717b6/tables/failure_type_to_context.csv": "bf551857769bde7fa332d35e15d80a2d4149725c1af0d1bf7eec47371d8f89f8",
+  "results/analysis/20261023T141601Z-5c717b6/tables/figure_outcomes.csv": "21c2cbf49e33e209b70efcc3a354bd5fce7ddd95238ed70ff5ba52b593d3d11c",
+  "results/analysis/20261023T141601Z-5c717b6/tables/infrastructure_failures.csv": "224545a82655b0886743f2818f2557060100e4a1b85f0801190f065999525c2e",
+  "results/analysis/20261023T141601Z-5c717b6/tables/install_quality.csv": "207cc76f49e5b30ba3ac6495a1b4a72dfbd06f67f9350b76ff5a22c01b6c4813",
+  "results/analysis/20261023T141601Z-5c717b6/tables/install_quality_examples.csv": "f097b5f4f46cda2da21b954c9ff4097e1e14ae7064ecdee2c2cec2d3c1f08e6b",
+  "results/analysis/20261023T141601Z-5c717b6/tables/licences.csv": "d5fd096fcb11acd5e07fa15581ed5b305df49274608544c6339e0176db4795e2",
+  "results/analysis/20261023T141601Z-5c717b6/tables/licences_agreement.csv": "575522e3b5ecfac7fc5fddda7744f7a8455ae48387a4a4847b2373bc08c4b27b",
+  "results/analysis/20261023T141601Z-5c717b6/tables/licences_top.csv": "ab9e22d41f710a81ad4ef0852235aaa4e65a2eff9f6b4134aeac82e4a0bbbf3a",
+  "results/analysis/20261023T141601Z-5c717b6/tables/model_coefficients.csv": "a39c5e7ea353612b048e0107858420a022851838ac06f398b6066d80376a9f99",
+  "results/analysis/20261023T141601Z-5c717b6/tables/model_r2_increments.csv": "64e5d019fd8f0770216bc98f8d2e5a9bcac39402b4286c6c913605fc025bcef1",
+  "results/analysis/20261023T141601Z-5c717b6/tables/model_summary.csv": "f5d03662beb15559604fec0dd185e9ab8a3ce9416b2090ffd6ad26ca3a0c4f3b",
+  "results/analysis/20261023T141601Z-5c717b6/tables/not_obtainable_reasons.csv": "5fb6305f08c10c719f6b3cdba583d6dea86f08803e5c00150d68ce8bec4293d7",
+  "results/analysis/20261023T141601Z-5c717b6/tables/notebook_clean_shares.csv": "4088d5d86fbe755067928fc1d358f92541d46ab3ef22f4bfe0b18ead8b067b06",
+  "results/analysis/20261023T141601Z-5c717b6/tables/notebook_mixed_model.csv": "5d1e1d5229d32560a9505f32000b028e0f89ae053456e9341dea575797a3781a",
+  "results/analysis/20261023T141601Z-5c717b6/tables/pipeline_errors.csv": "30cfedf708572f863cbc5b17d97e3376b0809e55bbcf0ce21c223bc29a1e4d77",
+  "results/analysis/20261023T141601Z-5c717b6/tables/primary_clean_execution.csv": "ae1c9891be5e4ee06c8c5210c169016e0b40b6eb27e4c4bb7d34da057d034cd4",
+  "results/analysis/20261023T141601Z-5c717b6/tables/primary_zenodo_strata_unweighted.csv": "f74766ad721fc86a6fb7ed8570a5ac22c71c138b2e7d39486b8591e44a541726",
+  "results/analysis/20261023T141601Z-5c717b6/tables/readiness_correlations.csv": "cbb79ad9515b0e18e67f85a81884a28901e65beb0d5794fe60233f245229e96e",
+  "results/analysis/20261023T141601Z-5c717b6/tables/readiness_means.csv": "2fbe74426f143d750a301edc83c202c720df315c2dbbb2afe290a3e2e50294bd",
+  "results/analysis/20261023T141601Z-5c717b6/tables/reproduction.csv": "6da355946b0860ea36abf5210c7fbff9fa5adf666eb083f02ce3dfe7dc15fade",
+  "results/analysis/20261023T141601Z-5c717b6/tables/reproduction_notebook_coverage.csv": "d112e3752d5b6f806b104b73022b822514c570ce8a7006cbefc4f3cbb90afde8",
+  "results/analysis/20261023T141601Z-5c717b6/tables/resources.csv": "568eb8c7009ee4bb34539af95c8cf54ae93e759b62e5d4484cfb68373b53ca83",
+  "results/analysis/20261023T141601Z-5c717b6/tables/sensitivity.csv": "f066aee7b758f391df5839ba21946e97e69b396169a244d486537d5633e2a690",
+  "results/analysis/20261023T141601Z-5c717b6/tables/sensitivity_shifts.csv": "fb299f79199628c9c67b7d94eeaf353fa2bd564d78a1256f935eebe4aa7d0ee6",
+  "results/analysis/20261023T141601Z-5c717b6/tables/timeouts.csv": "ab94184ce1afed6f7efcf481137e73f0805ccc3ea07e208e10f69ef93a0a66f9"
+ },
+ "output_dir": "results/analysis/20261023T141601Z-5c717b6",
+ "paper_tex": {
+  "paper/msr2027/tab-sensitivity.tex": "78c10e14a7727184dda3f9522eaf2ea37a418652441aa3c113aa8af609b240d0"
+ },
+ "paper_figures": {
+  "paper/msr2027/fig-outcomes.pdf": "bc04943526a4111da7ed2e3a77dc1b0c70510733d0356c8ab2fc2fc5403603c3"
+ },
+ "paper_json": {
+  "path": "paper/msr2027/results/study.json",
+  "sha256": "c2f882b78720c83ac16ce90a494cdd7a72b0abed8703a350d8abf2745a489bf7"
+ }
+}

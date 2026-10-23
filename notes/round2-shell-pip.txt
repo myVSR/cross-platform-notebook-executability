@@ -1,0 +1,4 @@
+executed notebooks read: 6085
+pip on the pipeline interpreter: 311 notebooks in 142 runs
+  installed or upgraded packages there: 70 notebooks
+  first error a missing module named on their own !pip line: 5 notebooks (fiftyone, langchain, mediapipe, parfit, talos)

@@ -1,0 +1,134 @@
+{
+  "exported_at": "2026-10-09T00:01:44+00:00",
+  "cutoff": "2026-07-01",
+  "strata": {
+    "Z1": {
+      "versions_enumerated": 11762,
+      "windows": 4,
+      "hits_reported": 11762,
+      "rows_stored": 11762,
+      "unlistable_records": 0,
+      "windows_with_mismatch": 0,
+      "concepts_latest_version_in_stratum": 8914,
+      "open_access": 8914,
+      "by_access_right": {
+        "open": 8914
+      },
+      "by_resource_type": {
+        "dataset": 3042,
+        "event": 4,
+        "image": 58,
+        "lesson": 243,
+        "model": 351,
+        "other": 251,
+        "physicalobject": 2,
+        "poster": 4,
+        "presentation": 89,
+        "publication": 1841,
+        "software": 2945,
+        "video": 4,
+        "workflow": 80
+      },
+      "with_github_link": 217,
+      "frame": "frame-zenodo-Z1-2026-10-09.csv.gz",
+      "frame_sha256": "c7b083f19b42ad9823d9bd59e91a9ef27d35a8806ba7277ff1ce55221bab98d9",
+      "inspections": {}
+    },
+    "Z2": {
+      "versions_enumerated": 931944,
+      "windows": 148,
+      "hits_reported": 931945,
+      "rows_stored": 931944,
+      "unlistable_records": 1,
+      "windows_with_mismatch": 1,
+      "concepts_latest_version_in_stratum": 423178,
+      "open_access": 423178,
+      "by_access_right": {
+        "open": 423178
+      },
+      "by_resource_type": {
+        "dataset": 153841,
+        "event": 105,
+        "image": 3118,
+        "lesson": 1470,
+        "model": 3564,
+        "other": 8668,
+        "physicalobject": 277,
+        "poster": 112,
+        "presentation": 603,
+        "publication": 33298,
+        "software": 216271,
+        "video": 1008,
+        "workflow": 843
+      },
+      "with_github_link": 188816,
+      "frame": "frame-zenodo-Z2-2026-10-09.csv.gz",
+      "frame_sha256": "b4c8c0c63f76de7d75fa2cfa304ede56d05adfd52590c84abeac4e991d029e4b",
+      "inspections": {
+        "20261005": {
+          "notebook": 246,
+          "no_notebook": 1542,
+          "unknown": 214,
+          "no_access": 1,
+          "not_inspected": 17997,
+          "sampled": 20000,
+          "frame_size": 423178,
+          "notebook_share_of_known": 0.13758389261744966
+        }
+      }
+    },
+    "Z3": {
+      "versions_enumerated": 54788,
+      "windows": 12,
+      "hits_reported": 54788,
+      "rows_stored": 54788,
+      "unlistable_records": 0,
+      "windows_with_mismatch": 0,
+      "concepts_latest_version_in_stratum": 34571,
+      "open_access": 34571,
+      "by_access_right": {
+        "open": 34571
+      },
+      "by_resource_type": {
+        "dataset": 23308,
+        "event": 8,
+        "image": 131,
+        "lesson": 66,
+        "model": 510,
+        "other": 675,
+        "physicalobject": 11,
+        "poster": 7,
+        "presentation": 35,
+        "publication": 2387,
+        "software": 7262,
+        "video": 40,
+        "workflow": 131
+      },
+      "with_github_link": 1009,
+      "frame": "frame-zenodo-Z3-2026-10-09.csv.gz",
+      "frame_sha256": "8a892cf68ce6663d39c6992ec2d55947dceb2ac3a4e51943aa462d1a59fb69a1",
+      "inspections": {
+        "20261005": {
+          "notebook": 45,
+          "no_notebook": 479,
+          "unknown": 476,
+          "no_access": 0,
+          "not_inspected": 0,
+          "sampled": 1000,
+          "frame_size": 34571,
+          "notebook_share_of_known": 0.08587786259541985
+        }
+      }
+    }
+  },
+  "meta": {
+    "enumerate_Z1_finished": "2026-10-06T15:31:17+00:00",
+    "enumerate_Z3_finished": "2026-10-06T15:31:46+00:00",
+    "enumerate_Z2_finished": "2026-10-06T18:50:40+00:00",
+    "inspection_Z3_20261005_frame_size": "34571",
+    "inspection_Z2_20261005_frame_size": "423178",
+    "inspection_Z3_20261005_done": "1000 2026-10-08T23:16:35+00:00",
+    "inspection_Z2_20261005_stop": "{\"inspected\": 2004, \"pool\": 460, \"target_pool\": 460, \"min_n\": 1000, \"max_n\": 20000}",
+    "inspection_Z2_20261005_done": "2004 2026-10-09T00:01:44+00:00"
+  }
+}

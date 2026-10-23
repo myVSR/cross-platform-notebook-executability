@@ -1,0 +1,16 @@
+stratum,content,outcome,resources
+Z1,notebook,analysable,128
+Z1,notebook,ineligible,6
+Z2,notebook,analysable,229
+Z2,notebook,ineligible,7
+Z2,notebook,not_obtainable,2
+Z2,notebook,pipeline_error,2
+Z2,unknown,analysable,6
+Z2,unknown,ineligible,171
+Z2,unknown,not_obtainable,33
+Z3,notebook,analysable,20
+Z3,notebook,ineligible,2
+Z3,notebook,not_obtainable,3
+Z3,unknown,analysable,3
+Z3,unknown,ineligible,123
+Z3,unknown,not_obtainable,65

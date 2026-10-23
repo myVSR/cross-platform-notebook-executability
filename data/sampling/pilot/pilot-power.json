@@ -1,0 +1,82 @@
+{
+  "computed_at": "2026-10-06T09:17:30+00:00",
+  "input": "analysis/thesis/results/notebook-cohort.csv",
+  "input_sha256": "1633360bc2147d265666cefca7e5273f2044c8755545f76f8ef4727d6d2b75e7",
+  "outcome": "Y_r = share of notebooks of a resource with status SUCCESS",
+  "power": 0.8,
+  "notebooks": 2291,
+  "resources": 282,
+  "notebooks_per_resource": {
+    "median": 3.0,
+    "mean": 8.124113475177305
+  },
+  "icc_clean": 0.3006949618785189,
+  "per_platform": {
+    "codeberg": {
+      "resources": 100,
+      "clean_mean": 0.3565472099691039,
+      "clean_sd": 0.41924431633612974,
+      "score_mean": 0.37059721814026375,
+      "score_sd": 0.25297877138512864
+    },
+    "github": {
+      "resources": 93,
+      "clean_mean": 0.2687839352431472,
+      "clean_sd": 0.3495738177332351,
+      "score_mean": 0.29499836377111416,
+      "score_sd": 0.20064839883557042
+    },
+    "zenodo": {
+      "resources": 89,
+      "clean_mean": 0.1490359459352326,
+      "clean_sd": 0.3043629899248481,
+      "score_mean": 0.26498207797316725,
+      "score_sd": 0.20735375738033004
+    }
+  },
+  "planning_sd": 0.3577270413314043,
+  "sample_sizes": [
+    {
+      "difference": 0.05,
+      "alpha": "alpha .05",
+      "resources_per_platform": 804
+    },
+    {
+      "difference": 0.08,
+      "alpha": "alpha .05",
+      "resources_per_platform": 314
+    },
+    {
+      "difference": 0.1,
+      "alpha": "alpha .05",
+      "resources_per_platform": 201
+    },
+    {
+      "difference": 0.05,
+      "alpha": "alpha .05/3 (Bonferroni, 3 pairwise)",
+      "resources_per_platform": 1072
+    },
+    {
+      "difference": 0.08,
+      "alpha": "alpha .05/3 (Bonferroni, 3 pairwise)",
+      "resources_per_platform": 419
+    },
+    {
+      "difference": 0.1,
+      "alpha": "alpha .05/3 (Bonferroni, 3 pairwise)",
+      "resources_per_platform": 268
+    }
+  ],
+  "planned_per_platform": 400,
+  "detectable_difference_at_planned": {
+    "alpha .05": 0.07086643897203343,
+    "alpha .05/3 (Bonferroni, 3 pairwise)": 0.08184492182790913
+  },
+  "draw_size_by_attrition": {
+    "0.10": 445,
+    "0.15": 471,
+    "0.20": 500,
+    "0.22": 513,
+    "0.25": 534
+  }
+}

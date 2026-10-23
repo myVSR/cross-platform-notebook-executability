@@ -1,0 +1,74 @@
+{
+ "created_at": "2026-10-23T21:56:14+00:00",
+ "rounds": {
+  "study": {
+   "draw": "data/sampling/draw/2026-10-09",
+   "db_sha256_original": "a28774440e9ca3f6481676cc5256af0d9bfa849bdba636b0cff1b5bdc35951e4"
+  },
+  "study-r2": {
+   "draw": "data/sampling/draw/2026-10-09-r2",
+   "db_sha256_original": "a70b07a71f4ab597a3ca99f7c8f29aebc7e520df45f00a4bf9f3f870c1cc1e98"
+  },
+  "study-r3": {
+   "draw": "data/sampling/draw/2026-10-09-r3",
+   "db_sha256_original": "24e0e772342feee53c97a8bdb87f3fb669cddf887fe4d5a00542ee26904c8d66"
+  }
+ },
+ "sqlite_rows_scrubbed": {
+  "data/sampling/codeberg/census.sqlite": 0,
+  "data/sampling/github/ids.sqlite": 0,
+  "data/sampling/zenodo/frame.sqlite": 0,
+  "results/study/merged.sqlite": 37323,
+  "results/study-r2/merged.sqlite": 37242,
+  "results/study-r3/merged.sqlite": 39936
+ },
+ "notebooks_included": 0,
+ "licences_allowed": [
+  "0BSD",
+  "AGPL-3.0",
+  "Apache-2.0",
+  "BSD-2-Clause",
+  "BSD-3-Clause",
+  "CC-BY-4.0",
+  "CC-BY-SA-4.0",
+  "CC0-1.0",
+  "GPL-2.0",
+  "GPL-3.0",
+  "ISC",
+  "LGPL-2.1",
+  "LGPL-3.0",
+  "MIT",
+  "MPL-2.0",
+  "Unlicense",
+  "WTFPL"
+ ],
+ "anonymity_scan_hits": 0,
+ "left_out": [
+  {
+   "path": "data/sampling/codeberg/census.sqlite",
+   "bytes": 105840640,
+   "sha256": "fefbf0a986442f05a7e9d7ba747ad0b630997025439ec706b6685b65d982c06b"
+  },
+  {
+   "path": "data/sampling/zenodo/frame.sqlite",
+   "bytes": 334966784,
+   "sha256": "73666fd191c582015feacba359b48dd032bd95d64175c7de008ce198423772ea"
+  },
+  {
+   "path": "results/study/merged.sqlite",
+   "bytes": 696041472,
+   "sha256": "b7b14d8d1ef4ef6490aca48b011d15648b1a4eab3396eaaf4fe5e4431349d963"
+  },
+  {
+   "path": "results/study-r2/merged.sqlite",
+   "bytes": 756453376,
+   "sha256": "670a97fbab28e4a7e267d5191adef8fa0c62ccdc80ad2eaa1ba3eb0b30e692d4"
+  },
+  {
+   "path": "results/study-r3/merged.sqlite",
+   "bytes": 1049042944,
+   "sha256": "de87f328bc9c99364e8cd267fa928a4cec21f0ef5c297ee602afdfdfe7083aa2"
+  }
+ ],
+ "files": 377
+}

@@ -1,0 +1,50 @@
+{
+  "topup": 4,
+  "created_at": "2026-10-22T14:00:38+00:00",
+  "target": 400,
+  "db": "/home/user/hpc/results/study-r3/merged.sqlite",
+  "platforms": {
+    "codeberg": {
+      "in_cohort": 500,
+      "outcomes": {
+        "analysable": 493,
+        "not_obtainable": 3,
+        "ineligible": 3,
+        "pipeline_error": 1
+      },
+      "shortfall": 0,
+      "replaced": 0,
+      "reserve_left": 150,
+      "reached": true
+    },
+    "github": {
+      "in_cohort": 500,
+      "outcomes": {
+        "analysable": 497,
+        "ineligible": 2,
+        "not_obtainable": 1
+      },
+      "shortfall": 0,
+      "replaced": 0,
+      "reserve_left": 150,
+      "reached": true
+    },
+    "zenodo": {
+      "in_cohort": 705,
+      "outcomes": {
+        "not_obtainable": 87,
+        "ineligible": 247,
+        "pipeline_error": 3,
+        "analysable": 368
+      },
+      "shortfall": 29,
+      "replaced": 29,
+      "reserve_left": 128,
+      "reached": false
+    }
+  },
+  "topup_cohort": "cohort-topup-4.csv",
+  "rerun_cohort": "cohort-rerun-4.csv",
+  "replacements": 29,
+  "reruns": 4
+}

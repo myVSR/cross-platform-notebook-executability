@@ -1,0 +1,13 @@
+Study folder: /home/user/hpc   round study-r2 (results/study-r2/)   target 400 analysable resources per platform
+  setup      env.sh ok; .env GITHUB_TOKEN set, ZENODO_TOKEN set
+  prepare    done; licensee SIF ok
+  sampling   probe     done
+  sampling   codeberg  done
+  sampling   zenodo    done
+  sampling   github    done (657/650 screened-in)
+  draw       data/sampling/draw/2026-10-09-r2
+  pass 1     study-r2-1-main           1670 resources  evaluated  -> pass 2
+  pass 2     study-r2-2-topup3            7 resources  evaluated  -> pass 3
+  pass 3     study-r2-3-topup4            2 resources  evaluated  -> complete
+  COMPLETE   2026-10-12T00:40:40+00:00: results/study-r2/merged.sqlite
+  driver     running

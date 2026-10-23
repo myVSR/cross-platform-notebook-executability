@@ -1,0 +1,47 @@
+{
+ "created_at": "2026-10-21T10:26:57+00:00",
+ "seed": 20261021,
+ "db": "results/study-r2/merged.sqlite",
+ "db_sha256": "a70b07a71f4ab597a3ca99f7c8f29aebc7e520df45f00a4bf9f3f870c1cc1e98",
+ "normalisation_plan": {
+  "identical normalised": 35,
+  "image similar": 30,
+  "identical tolerance": 15,
+  "different": 40
+ },
+ "failure_plan": {
+  "DEPENDENCY_ERROR": 18,
+  "FILE_ERROR": 16,
+  "CODE_ERROR": 14,
+  "OTHER_ERROR": 12,
+  "DATA_ERROR": 10,
+  "EXTERNAL_SERVICE_ERROR": 16,
+  "EXECUTION_FAILURE": 8,
+  "EXECUTION_ENVIRONMENT_ERROR": 4,
+  "NETWORK_ERROR": 2
+ },
+ "normalisation_items": {
+  "identical normalised": 35,
+  "image similar": 30,
+  "identical tolerance": 15,
+  "different": 40
+ },
+ "failure_items": {
+  "DEPENDENCY_ERROR": 18,
+  "FILE_ERROR": 16,
+  "CODE_ERROR": 14,
+  "OTHER_ERROR": 12,
+  "DATA_ERROR": 10,
+  "EXTERNAL_SERVICE_ERROR": 16,
+  "EXECUTION_FAILURE": 8,
+  "EXECUTION_ENVIRONMENT_ERROR": 4,
+  "NETWORK_ERROR": 2
+ },
+ "failure_items_moved_by_context": 16,
+ "files": {
+  "failures-key.csv": "3674ae7a9a1d0611d76f25a7d24c5a1c55cccc9997c9920314b2fea7dd26d95c",
+  "failures.html": "139ed4fe040b381b9eb769c5989ac6c3e506a30350bbc9cb112fd16aea8fec0d",
+  "normalisation-key.csv": "7a3b55a9a0fd681793ce8d62e8cf4909690c3b8a1cb8f2104f32d192caca3f85",
+  "normalisation.html": "b6219c7f6b5053f23e4a05fb3bab2282d2ab4239c44e8c956b50c4edbbc30132"
+ }
+}
